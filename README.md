@@ -1,12 +1,12 @@
 # Haar Cascade - Lata de Refrigerante
 
 ## Objetivo
-Treinar um classificador Haar Cascade personalizado para detectar um [nome do objeto].
+Treinar um classificador Haar Cascade personalizado para detectar uma Lata de Refrigerante.
 
 ## Descrição do Projeto
 Este projeto foi realizado em dupla para a disciplina de Visão Computacional.
 
-- Objeto detectado: [Nome do Objeto]
+- Objeto detectado: Lata de Refrigerante
 - Total de imagens positivas: [número]
 - Total de imagens negativas: [número]
 
@@ -20,7 +20,7 @@ Este projeto foi realizado em dupla para a disciplina de Visão Computacional.
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/seuusuario/haar-cascade-[objeto].git
+$ git clone https://github.com/ThiagoFamper/haar-cascade-lata-refri.git
 
 # Executar o script de detecção
 $ python detect_custom.py

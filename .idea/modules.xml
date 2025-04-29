@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/deteccao_lata_refri.iml" filepath="$PROJECT_DIR$/.idea/deteccao_lata_refri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/haar-cascade-lata-refri.iml" filepath="$PROJECT_DIR$/.idea/haar-cascade-lata-refri.iml" />
     </modules>
   </component>
 </project>
