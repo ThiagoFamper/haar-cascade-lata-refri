@@ -1,4 +1,4 @@
-# Haar Cascade - [Nome do Objeto]
+# Haar Cascade - Lata de Refrigerante
 
 ## Objetivo
 Treinar um classificador Haar Cascade personalizado para detectar um [nome do objeto].
