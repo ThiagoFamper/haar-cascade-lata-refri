@@ -1,0 +1,2673 @@
+<!doctype html >
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"
+      class="">
+<head>
+    <meta charset="utf-8">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    window._currentDevice = 'desktop';
+    window.Parameters = window.Parameters || {
+        HomeUrl: 'https://www.salsmamaroneck.com/',
+        AccountUUID: 'dbb26f735f9f4ddfb4b73cc163d384e4',
+        SystemID: 'US_DIRECT_PRODUCTION',
+        SiteAlias: '7768788d',
+        SiteType: atob('RFVEQU9ORQ=='),
+        PublicationDate: 'Thu May 08 00:29:24 UTC 2025',
+        ExternalUid: null,
+        IsSiteMultilingual: false,
+        InitialPostAlias: '',
+        InitialPostPageUuid: '',
+        InitialDynamicItem: 'Soda-Can-12-Oz',
+        DynamicPageInfo: {
+            isDynamicPage: true,
+            base64JsonRowData: 'eyJpbWFnZSI6Imh0dHBzOi8vZDJqNmRicTBldXgwYmcuY2xvdWRmcm9udC5uZXQvaW1hZ2VzLzY5NzgxNzc2LzM5NjMxODI5NjUuanBnIiwic3ViX3RpdGxlIjoiU0tVIDEyIG91bmNlcyIsInNlY29uZGFyeV90ZXh0IjoiJDIiLCJuYW1lIjoiU29kYSBDYW4gLSAxMiBPeiIsImxpbmsiOiIvcHJvZHVjdC9Tb2RhLUNhbi0xMi1PeiIsImJhbm5lciI6IiIsImlkIjoiNDQzODEwNDQ0IiwidGl0bGUiOiJTb2RhIENhbiAtIDEyIE96IiwidHlwZSI6IiIsImxpbmtfdGV4dCI6IkJ1eSBOb3cifQ==',
+        },
+        InitialPageAlias: 'product',
+        InitialPageUuid: 'c8a3b909e9444877ab1223e38a6c4b5c',
+        InitialPageId: '1169460881',
+        InitialEncodedPageAlias: 'cHJvZHVjdA==',
+        InitialHeaderUuid: '76d4909f7adc4fa8a0def6822b65170b',
+        CurrentPageUrl: '',
+        IsCurrentHomePage: false,
+        AllowAjax: false,
+        AfterAjaxCommand: null,
+        HomeLinkText: 'Back To Home',
+        UseGalleryModule: false,
+        CurrentThemeName: 'Layout Theme',
+        ThemeVersion: '52910',
+        DefaultPageAlias: '',
+        RemoveDID: true,
+        WidgetStyleID: null,
+        IsHeaderFixed: false,
+        IsHeaderSkinny: false,
+        IsBfs: true,
+        StorePageAlias: 'order-now',
+        StorePagesUrls: 'eyJTVE9SRV9QUk9EVUNUX1BBR0UiOiJwcm9kdWN0IiwiU1RPUkVfQUNDT1VOVF9QQUdFIjoiYWNjb3VudCIsIlNUT1JFX1NFQVJDSF9QQUdFIjoic3RvcmUtc2VhcmNoIiwiU1RPUkVfQ0FURUdPUllfUEFHRSI6ImNhdGVnb3J5IiwiU1RPUkVfRlJPTlRfUEFHRSI6Im9yZGVyLW5vdyIsIlNUT1JFX0NIRUNLT1VUX1BBR0UiOiJjaGVja291dCJ9',
+        IsNewStore: 'true',
+        StorePath: '/order-now',
+        StoreId: '69781776',
+        StoreVersion: 2,
+        StoreBaseUrl: '/order-now',
+        StoreCleanUrl: true,
+        StoreDisableScrolling: true,
+        IsStoreSuspended: false,
+        HasCustomDomain: true,
+        SimpleSite: false,
+        showCookieNotification: false,
+        cookiesNotificationMarkup: 'null',
+        translatedPageUrl: '',
+        isFastMigrationSite: false,
+        sidebarPosition: 'NA',
+        currentLanguage: 'en',
+        currentLocale: 'en',
+        NavItems: '{}',
+        errors: {
+            general: 'There was an error connecting to the page.<br/> Make sure you are not offline.',
+            password: 'Incorrect name/password combination',
+            tryAgain: 'Try again'
+        },
+        NavigationAreaParams: {
+            ShowBackToHomeOnInnerPages: true,
+            NavbarSize: -1,
+            NavbarLiveHomePage: 'https://www.salsmamaroneck.com/',
+            BlockContainerSelector: '.dmBody',
+            NavbarSelector: '#dmNav:has(a)',
+            SubNavbarSelector: '#subnav_main'
+        },
+        hasCustomCode: true,
+        planID: '10',
+        customTemplateId: 'null',
+        siteTemplateId: 'null',
+        productId: 'DM_DIRECT',
+        disableTracking: false,
+        pageType: 'STORE_PRODUCT_PAGE',
+        isRuntimeServer: true,
+        isInEditor: false,
+        hasNativeStore: false,
+        defaultLang: 'en',
+        hamburgerMigration: null,
+        isFlexSite : false
+    };
+
+    window.Parameters.LayoutID = {};
+    window.Parameters.LayoutID[window._currentDevice] = 6;
+    window.Parameters.LayoutVariationID = {};
+    window.Parameters.LayoutVariationID[window._currentDevice] = 5;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Injecting site-wide to the head -->
+
+
+
+
+<!-- End Injecting site-wide to the head -->
+
+<!-- Inject secured cdn script -->
+
+
+<!-- ========= Meta Tags ========= -->
+<!-- PWA settings -->
+<script>
+    function toHash(str) {
+        var hash = 5381, i = str.length;
+        while (i) {
+            hash = hash * 33 ^ str.charCodeAt(--i)
+        }
+        return hash >>> 0
+    }
+</script>
+<script>
+    (function (global) {
+    //const cacheKey = global.cacheKey;
+    const isOffline = 'onLine' in navigator && navigator.onLine === false;
+    const hasServiceWorkerSupport = 'serviceWorker' in navigator;
+    if (isOffline) {
+        console.log('offline mode');
+    }
+    if (!hasServiceWorkerSupport) {
+        console.log('service worker is not supported');
+    }
+    if (hasServiceWorkerSupport && !isOffline) {
+        window.addEventListener('load', function () {
+            const serviceWorkerPath = '/runtime-service-worker.js?v=3';
+            navigator.serviceWorker
+                .register(serviceWorkerPath, { scope: './' })
+                .then(
+                    function (registration) {
+                        // Registration was successful
+                        console.log(
+                            'ServiceWorker registration successful with scope: ',
+                            registration.scope
+                        );
+                    },
+                    function (err) {
+                        // registration failed :(
+                        console.log('ServiceWorker registration failed: ', err);
+                    }
+                )
+                .catch(function (err) {
+                    console.log(err);
+                });
+        });
+
+        // helper function to refresh the page
+        var refreshPage = (function () {
+            var refreshing;
+            return function () {
+                if (refreshing) return;
+                // prevent multiple refreshes
+                var refreshkey = 'refreshed' + location.href;
+                var prevRefresh = localStorage.getItem(refreshkey);
+                if (prevRefresh) {
+                    localStorage.removeItem(refreshkey);
+                    if (Date.now() - prevRefresh < 30000) {
+                        return; // dont go into a refresh loop
+                    }
+                }
+                refreshing = true;
+                localStorage.setItem(refreshkey, Date.now());
+                console.log('refereshing page');
+                window.location.reload();
+            };
+        })();
+
+        function messageServiceWorker(data) {
+            return new Promise(function (resolve, reject) {
+                if (navigator.serviceWorker.controller) {
+                    var worker = navigator.serviceWorker.controller;
+                    var messageChannel = new MessageChannel();
+                    messageChannel.port1.onmessage = replyHandler;
+                    worker.postMessage(data, [messageChannel.port2]);
+                    function replyHandler(event) {
+                        resolve(event.data);
+                    }
+                } else {
+                    resolve();
+                }
+            });
+        }
+    }
+})(window);
+</script>
+<!-- Add manifest -->
+<link rel="manifest" href="/manifest.json">
+<!-- Tell the browser it's a PWA -->
+<meta name="mobile-web-app-capable" content="yes">
+<!-- Tell iOS it's a PWA -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<!-- End PWA settings -->
+
+
+
+<link rel="canonical" href="https://www.salsmamaroneck.com/product/Soda-Can-12-Oz">
+
+<meta id="view" name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<!--Add favorites icons-->
+
+<link rel="apple-touch-icon"
+      href="https://irp.cdn-website.com/7768788d/dms3rep/multi/Sals+Pizzeria+Logo.png"/>
+
+<link rel="icon" type="image/x-icon" href="https://irp.cdn-website.com/7768788d/site_favicon_16_1649728124315.ico"/>
+
+<!-- End favorite icons -->
+<link rel="preconnect" href="https://lirp.cdn-website.com/"/>
+
+
+<!-- Prefetch Ecwid Javascript to speed up loading -->
+<link rel="prefetch" href="https://app.multiscreenstore.com/script.js?69781776"/>
+<script>
+    if (window.Parameters) {
+        window.Parameters.ecwidScriptUrl = 'https://app.multiscreenstore.com/script.js?69781776';
+    }
+</script>
+
+
+<!-- render the required CSS and JS in the head section -->
+<script id='d-js-dmapi'>
+    window.SystemID = 'US_DIRECT_PRODUCTION';
+
+    if (!window.dmAPI) {
+        window.dmAPI = {
+            registerExternalRuntimeComponent: function () {
+            },
+            getCurrentDeviceType: function () {
+                return window._currentDevice;
+            },
+            runOnReady: (ns, fn) => {
+                const safeFn = dmAPI.toSafeFn(fn);
+                ns = ns || 'global_' + Math.random().toString(36).slice(2, 11);
+                const eventName = 'afterAjax.' + ns;
+
+                if (document.readyState === 'complete') {
+                    $.DM.events.off(eventName).on(eventName, safeFn);
+                    setTimeout(function () {
+                        safeFn({
+                            isAjax: false,
+                        });
+                    }, 0);
+                } else {
+                    window?.waitForDeferred?.('dmAjax', () => {
+                        $.DM.events.off(eventName).on(eventName, safeFn);
+                        safeFn({
+                            isAjax: false,
+                        });
+                    });
+                }
+            },
+            toSafeFn: (fn) => {
+                if (fn?.safe) {
+                    return fn;
+                }
+                const safeFn = function (...args) {
+                    try {
+                        return fn?.apply(null, args);
+                    } catch (e) {
+                        console.log('function failed ' + e.message);
+                    }
+                };
+                safeFn.safe = true;
+                return safeFn;
+            }
+        };
+    }
+
+    if (!window.requestIdleCallback) {
+        window.requestIdleCallback = function (fn) {
+            setTimeout(fn, 0);
+        }
+    }
+</script>
+
+<!-- loadCSS function header.jsp-->
+
+
+
+
+
+
+<script id="d-js-load-css">
+/**
+ * There are a few <link> tags with CSS resource in them that are preloaded in the page
+ * in each of those there is a "onload" handler which invokes the loadCSS callback
+ * defined here.
+ * We are monitoring 3 main CSS files - the runtime, the global and the page.
+ * When each load we check to see if we can append them all in a batch. If threre
+ * is no page css (which may happen on inner pages) then we do not wait for it
+ */
+(function () {
+  let cssLinks = {};
+  function loadCssLink(link) {
+    link.onload = null;
+    link.rel = "stylesheet";
+    link.type = "text/css";
+  }
+  
+    function checkCss() {
+      const pageCssLink = document.querySelector("[id*='CssLink']");
+      const widgetCssLink = document.querySelector("[id*='widgetCSS']");
+
+        if (cssLinks && cssLinks.runtime && cssLinks.global && (!pageCssLink || cssLinks.page) && (!widgetCssLink || cssLinks.widget)) {
+            const storedRuntimeCssLink = cssLinks.runtime;
+            const storedPageCssLink = cssLinks.page;
+            const storedGlobalCssLink = cssLinks.global;
+            const storedWidgetCssLink = cssLinks.widget;
+
+            storedGlobalCssLink.disabled = true;
+            loadCssLink(storedGlobalCssLink);
+
+            if (storedPageCssLink) {
+                storedPageCssLink.disabled = true;
+                loadCssLink(storedPageCssLink);
+            }
+
+            if(storedWidgetCssLink) {
+                storedWidgetCssLink.disabled = true;
+                loadCssLink(storedWidgetCssLink);
+            }
+
+            storedRuntimeCssLink.disabled = true;
+            loadCssLink(storedRuntimeCssLink);
+
+            requestAnimationFrame(() => {
+                setTimeout(() => {
+                    storedRuntimeCssLink.disabled = false;
+                    storedGlobalCssLink.disabled = false;
+                    if (storedPageCssLink) {
+                      storedPageCssLink.disabled = false;
+                    }
+                    if (storedWidgetCssLink) {
+                      storedWidgetCssLink.disabled = false;
+                    }
+                    // (SUP-4179) Clear the accumulated cssLinks only when we're
+                    // sure that the document has finished loading and the document 
+                    // has been parsed.
+                    if(document.readyState === 'interactive') {
+                      cssLinks = null;
+                    }
+                }, 0);
+            });
+        }
+    }
+  
+
+  function loadCSS(link) {
+    try {
+      var urlParams = new URLSearchParams(window.location.search);
+      var noCSS = !!urlParams.get("nocss");
+      var cssTimeout = urlParams.get("cssTimeout") || 0;
+
+      if (noCSS) {
+        return;
+      }
+      if (link.href && link.href.includes("d-css-runtime")) {
+        cssLinks.runtime = link;
+        checkCss();
+      } else if (link.id === "siteGlobalCss") {
+        cssLinks.global = link;
+        checkCss();
+      } 
+      
+      else if (link.id && link.id.includes("CssLink")) {
+        cssLinks.page = link;
+        checkCss();
+      } else if (link.id && link.id.includes("widgetCSS")) {
+        cssLinks.widget = link;
+        checkCss();
+      }
+      
+      else {
+        requestIdleCallback(function () {
+          window.setTimeout(function () {
+            loadCssLink(link);
+          }, parseInt(cssTimeout, 10));
+        });
+      }
+    } catch (e) {
+      throw e
+    }
+  }
+  window.loadCSS = window.loadCSS || loadCSS;
+})();
+</script>
+
+
+
+<script data-role="deferred-init" type="text/javascript">
+    /* usage: window.getDeferred(<deferred name>).resolve() or window.getDeferred(<deferred name>).promise.then(...)*/
+    function Def() {
+        this.promise = new Promise((function (a, b) {
+            this.resolve = a, this.reject = b
+        }).bind(this))
+    }
+
+    const defs = {};
+    window.getDeferred = function (a) {
+        return null == defs[a] && (defs[a] = new Def), defs[a]
+    }
+    window.waitForDeferred = function (b, a, c) {
+        let d = window?.getDeferred?.(b);
+        d
+            ? d.promise.then(a)
+            : c && ["complete", "interactive"].includes(document.readyState)
+                ? setTimeout(a, 1)
+                : c
+                    ? document.addEventListener("DOMContentLoaded", a)
+                    : console.error(`Deferred  does not exist`);
+    };
+</script>
+<style id="forceCssIncludes">
+    /* This file is auto-generated from a `scss` file with the same name */
+
+.videobgwrapper{overflow:hidden;position:absolute;z-index:0;width:100%;height:100%;top:0;left:0;pointer-events:none;border-radius:inherit}.videobgframe{position:absolute;width:101%;height:100%;top:50%;left:50%;transform:translateY(-50%) translateX(-50%);object-fit:fill}#dm video.videobgframe{margin:0}@media (max-width:767px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}}@media (min-width:1025px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}@media (min-width:768px) and (max-width:1024px){.responsiveTablet .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}#dm [data-show-on-page-only]{display:none!important}#dmRoot div.stickyHeaderFix div.site_content{margin-top:0!important}#dmRoot div.stickyHeaderFix div.hamburger-header-container{position:relative}
+    
+
+</style>
+<style id="cssVariables" type="text/css">
+    :root {
+  --color_1: rgba(0,0,0,1);
+  --color_2: rgba(255,255,255,1);
+  --color_3: rgba(182,33,33,1);
+  --color_4: rgba(61,61,61,1);
+  --color_5: rgba(46,46,46,1);
+  --color_6: rgba(222,222,222,1);
+  --color_7: rgba(102,102,102,1);
+  --color_8: rgba(190,190,190,1);
+}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google Fonts Include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- loadCSS function fonts.jsp-->
+
+
+
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/fonts/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Be+Vietnam:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Bebas+Neue:ital,wght@0,400&family=Oswald:ital,wght@0,200..700;1,200..700&family=Muli:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900&family=Epilogue:ital,wght@0,100..900;1,100..900&family=Prata:ital,wght@0,400&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&amp;subset=latin-ext&amp;display=swap"  />
+
+<style>
+@font-face {
+  font-family: "la-regular-400";
+  src: url("https://irp.cdn-website.com/7768788d/fonts/la-regular-400-452f_400.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+</style>
+
+
+<style>
+@font-face {
+  font-family: "Intro-Trial-Rg";
+  src: url("https://irp.cdn-website.com/7768788d/fonts/Intro-Trial-Rg-2077_400.otf");
+  font-weight: 400;
+  font-style: normal;
+}
+</style>
+
+
+<style>
+@font-face {
+  font-family: "la-solid-900";
+  src: url("https://irp.cdn-website.com/7768788d/fonts/la-solid-900-d21f_400.woff");
+  font-weight: 400;
+  font-style: normal;
+}
+</style>
+
+
+<style>
+@font-face {
+  font-family: "Intro-Trial-BdAlt";
+  src: url("https://irp.cdn-website.com/7768788d/fonts/Intro-Trial-BdAlt-e098_400.otf");
+  font-weight: 400;
+  font-style: normal;
+}
+</style>
+
+
+<style>
+@font-face {
+  font-family: "MuseoSans_700";
+  src: url("https://irp.cdn-website.com/7768788d/fonts/MuseoSans_700-2ac3_400.otf");
+  font-weight: 400;
+  font-style: normal;
+}
+</style>
+
+
+<style>
+@font-face {
+  font-family: "CitricacidPersonalUseBoldItalic-K7vxy";
+  src: url("https://irp.cdn-website.com/7768788d/fonts/CitricacidPersonalUseBoldItalic-K7vxy-9b08_400.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+</style>
+
+
+<style>
+@font-face {
+  font-family: "IntroDemoBlackCaps";
+  src: url("https://irp.cdn-website.com/7768788d/fonts/IntroDemoBlackCaps-f481_400.otf");
+  font-weight: 400;
+  font-style: normal;
+}
+</style>
+
+
+<style>
+@font-face {
+  font-family: "fontawesome-webfont";
+  src: url("https://irp.cdn-website.com/7768788d/fonts/fontawesome-webfont-f8ed_400.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+</style>
+
+
+<style>
+@font-face {
+  font-family: "MuseoSans_500";
+  src: url("https://irp.cdn-website.com/7768788d/fonts/MuseoSans_500-ff03_400.otf");
+  font-weight: 400;
+  font-style: normal;
+}
+</style>
+
+
+<style>
+@font-face {
+  font-family: "LineIcons";
+  src: url("https://irp.cdn-website.com/7768788d/fonts/LineIcons-eb4d_400.woff");
+  font-weight: 400;
+  font-style: normal;
+}
+</style>
+
+
+<style>
+@font-face {
+  font-family: "MuseoSans-300";
+  src: url("https://irp.cdn-website.com/7768788d/fonts/MuseoSans-300-da43_400.otf");
+  font-weight: 400;
+  font-style: normal;
+}
+</style>
+
+
+
+
+
+
+<!-- RT CSS Include d-css-runtime-desktop-one-package-structured-global-->
+<link rel="stylesheet" type="text/css" href="https://static.cdn-website.com/mnlt/production/5453/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-structured-global.min.css" />
+
+<!-- End of RT CSS Include -->
+
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/WIDGET_CSS/a53e2a0e01580fcdc9553e3809837fbd.css" id="widgetCSS" />
+
+<!-- Support `img` size attributes -->
+<style>img[width][height] {
+  height: auto;
+}</style>
+
+<!-- Support showing sticky element on page only -->
+<style>
+  body[data-page-alias="product"] #dm [data-show-on-page-only="product"] {
+    display: block !important;
+  }
+</style>
+
+<!-- This is populated in Ajax navigation -->
+<style id="pageAdditionalWidgetsCss" type="text/css">
+</style>
+
+
+
+
+<!-- Site CSS -->
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/7768788d/files/7768788d_1.min.css?v=4057" id="siteGlobalCss" />
+
+
+
+<style id="customWidgetStyle" type="text/css">
+    
+</style>
+<style id="innerPagesStyle" type="text/css">
+    
+</style>
+
+
+<style
+        id="additionalGlobalCss" type="text/css"
+>
+</style>
+
+<style id="pagestyle" type="text/css">
+    .product-details__rating
+{
+	justify-content:center !important;
+}
+.product-details__sidebar
+{
+	border:2px SOLID #3a3a3a !important;
+	border-radius:7px !important;
+}
+@media (min-width:0px) and (max-width:1024px) {
+  .ec-store .product-details--layout-sidebar-right .product-details__sidebar {
+    min-width:calc(100% - 60px) !important;
+    background:#2e2e2e !important;
+    position:relative !important;
+    margin-top:-120px !important;
+    z-index:9 !important;
+    left:-30px !important;
+    padding:30px !important;
+  }
+
+  .product-details__gallery.details-gallery.details-gallery--no-scroll {
+    min-width:100% !important;
+    margin:0 !important;
+    padding:0 !important;
+  }
+}
+.product-details__description.product-details__description--blank
+{
+	display:none !important;
+}
+.product-details-module.details-product-option
+{
+	min-width:100% !important;
+}
+.product-details__product-price.ec-price-item
+{
+	min-width:100% !important;
+}
+span.option-surcharge.ec-text-muted
+{
+	color:#fff !important;
+}
+div#productDescription
+{
+	text-align:center !important;
+	min-width:100% !important;
+}
+.product-details-module.product-details__product-price-row
+{
+	min-width:100% !important;
+	text-align:center !important;
+}
+span.breadcrumbs__delimiter.ec-text-muted
+{
+	display:none !important;
+}
+a.breadcrumbs__link.ec-link.ec-link--muted.breadcrumbs__link--last
+{
+	display:none !important;
+}
+.product-details-module.details-product-option.details-product-option--textarea.details-product-option--Special-Instructions
+{
+	min-width:100% !important;
+}
+.details-product-purchase__qty
+{
+	min-width:100% !important;
+	text-align:center !important;
+}
+.ec-size .ec-store .details-product-purchase__qty-field
+{
+	width:100% !important;
+	text-align:center !important;
+}
+.details-product-purchase__controls
+{
+	min-width:100% !important;
+}
+.ec-store .product-details--layout-sidebar-left .product-details__sidebar
+{
+	padding-left:15px !important;
+	padding-right:15px !important;
+	padding-top:5px !important;
+	padding-bottom:15px !important;
+	background:#2e2e2e !important;
+}
+.ec-likely.details-product-share__buttons
+{
+	text-align:center !important;
+}
+.product-details-module__content.product-details-module__content--indented
+{
+	text-align:center !important;
+}
+*#dm *.dmBody *.u_1659200310 h1.product-details__product-title
+{
+	text-align:CENTER !important;
+}
+*#dm *.dmBody *.u_1659200310 h1.product-details__product-title *
+{
+	text-align:CENTER !important;
+}
+*#dm *.dmBody *.u_1659200310 div.product-details__product-title
+{
+	text-align:CENTER !important;
+}
+*#dm *.dmBody *.u_1659200310 div.product-details__product-title *
+{
+	text-align:CENTER !important;
+}
+*#dm *.dmBody *.u_1659200310 .product-details-module__title
+{
+	text-align:CENTER !important;
+}
+*#dm *.dmBody *.u_1659200310 .product-details-module__title *
+{
+	text-align:CENTER !important;
+}
+*#dm *.dmBody div.u_1659200310 .ecwid-btn--primary
+{
+	font-family:'Bebas Neue' !important;
+	font-weight:normal !important;
+}
+*#dm *.dmBody div.u_1659200310 .form-control--primary .form-control__button .form-control__button-text
+{
+	font-family:'Bebas Neue' !important;
+	font-weight:normal !important;
+}
+*#dm *.dmBody div.u_1659200310 .form-control--primary .form-control__button .form-control__button-svg
+{
+	font-family:'Bebas Neue' !important;
+	font-weight:normal !important;
+}
+*#dm *.dmBody div.u_1659200310 .form-control--secondary .form-control__button .form-control__button-text
+{
+	font-family:'Bebas Neue' !important;
+	font-weight:normal !important;
+}
+*#dm *.dmBody div.u_1659200310 .form-control--secondary .form-control__button .form-control__button-svg
+{
+	font-family:'Bebas Neue' !important;
+	font-weight:normal !important;
+}
+*#dm *.dmBody *.u_1659200310 .ec-breadcrumbs
+{
+	text-align:CENTER !important;
+}
+*#dm *.dmBody *.u_1659200310 .ec-breadcrumbs *
+{
+	text-align:CENTER !important;
+}
+*.dmFooterContainer
+{
+	display:none !important;
+}
+*#dm *.dmBody div.u_1659200310 .ec-breadcrumbs .ec-link:hover
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1659200310 .ec-breadcrumbs .ec-link.hover
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1659200310 .ec-breadcrumbs
+{
+	font-family:'Bebas Neue' !important;
+	color:rgba(247,94,94,1) !important;
+	font-style:normal !important;
+	text-decoration:none !important;
+}
+*#dm *.dmBody div.u_1659200310 .ec-breadcrumbs *
+{
+	font-family:'Bebas Neue' !important;
+	color:rgba(247,94,94,1) !important;
+	font-style:normal !important;
+	text-decoration:none !important;
+}
+*#dm *.dmBody a.u_1022641269
+{
+	border-radius:0px 0px 0px 0px !important;
+}
+*#dm *.dmBody a.u_1022641269:hover span.icon
+{
+	color:var(--color_2) !important;
+}
+*#dm *.dmBody a.u_1022641269.hover span.icon
+{
+	color:var(--color_2) !important;
+}
+*#dm *.dmBody a.u_1022641269:hover
+{
+	background-color:rgba(131,15,18,0.85) !important;
+	background-image:initial !important;
+}
+*#dm *.dmBody a.u_1022641269.hover
+{
+	background-color:rgba(131,15,18,0.85) !important;
+	background-image:initial !important;
+}
+*#dm *.dmBody div.u_1659200310 h1.product-details__product-title
+{
+	color:var(--color_1) !important;
+	font-family:'Bebas Neue' !important;
+}
+*#dm *.dmBody div.u_1659200310 h1.product-details__product-title *
+{
+	color:var(--color_1) !important;
+	font-family:'Bebas Neue' !important;
+}
+*#dm *.dmBody div.u_1659200310 div.product-details__product-title
+{
+	color:var(--color_1) !important;
+	font-family:'Bebas Neue' !important;
+}
+*#dm *.dmBody div.u_1659200310 div.product-details__product-title *
+{
+	color:var(--color_1) !important;
+	font-family:'Bebas Neue' !important;
+}
+*#dm *.dmBody div.u_1659200310 .product-details__product-price
+{
+	font-family:'Bebas Neue' !important;
+	color:var(--color_1) !important;
+}
+*#dm *.dmBody div.u_1659200310 .product-details__product-price *
+{
+	font-family:'Bebas Neue' !important;
+	color:var(--color_1) !important;
+}
+*#dm *.dmBody div.u_1659200310 .product-details__product-price-taxes
+{
+	font-family:'Bebas Neue' !important;
+	color:var(--color_1) !important;
+}
+*#dm *.dmBody div.u_1659200310 .product-details__product-price-taxes *
+{
+	font-family:'Bebas Neue' !important;
+	color:var(--color_1) !important;
+}
+*#dm *.dmBody div.u_1659200310 .product-details-module__title
+{
+	color:var(--color_1) !important;
+	font-family:'Bebas Neue' !important;
+	font-weight:normal !important;
+	font-style:normal !important;
+	text-decoration:none !important;
+}
+*#dm *.dmBody div.u_1659200310 .product-details-module__title *
+{
+	color:var(--color_1) !important;
+	font-family:'Bebas Neue' !important;
+	font-weight:normal !important;
+	font-style:normal !important;
+	text-decoration:none !important;
+}
+*#dm *.dmBody div.u_1659200310 .product-details__product-description
+{
+	font-family:'Muli' !important;
+	color:var(--color_1) !important;
+	font-weight:600 !important;
+}
+*#dm *.dmBody div.u_1659200310 .product-details__product-description *
+{
+	font-family:'Muli' !important;
+	color:var(--color_1) !important;
+	font-weight:600 !important;
+}
+*#dm *.dmBody div.u_1569682105.dmStoreCart[data-element-type="ec_store_cart"] .cartIcon
+{
+	color:rgba(255,255,255,1) !important;
+	font-family:'Muli' !important;
+}
+*#dm *.dmBody div.u_1569682105.dmStoreCart[data-element-type="ec_store_cart"] .cartItems
+{
+	color:rgba(255,255,255,1) !important;
+	font-family:'Muli' !important;
+}
+*#dm *.dmBody div.u_1577355224
+{
+	background-color:rgba(223,223,223,0.01) !important;
+}
+*#dm *.dmBody div.u_1304912355
+{
+	background-color:var(--color_2) !important;
+}
+*#dm *.dmBody div.u_1659200310 .form-control--secondary .form-control__button
+{
+	background-color:var(--color_4) !important;
+}
+*#dm *.dmBody div.u_1659200310 .ecwid-btn--primary:hover
+{
+	background-color:rgba(194, 77, 77, 1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody div.u_1659200310 .ecwid-btn--primary.hover
+{
+	background-color:rgba(194, 77, 77, 1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody div.u_1659200310 .form-control--primary .form-control__button:hover
+{
+	background-color:rgba(194, 77, 77, 1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody div.u_1659200310 .form-control--primary .form-control__button.hover
+{
+	background-color:rgba(194, 77, 77, 1) !important;
+	background-image:none !important;
+}
+
+</style>
+
+<style id="pagestyleDevice" type="text/css">
+    .review-panel__wrap
+{
+	background:#fff !important;
+	max-width:50% !important;
+}
+.product-details__description
+{
+	max-width:50% !important;
+}
+.product-details__gallery.details-gallery.details-gallery--no-scroll.details-gallery--one-image.details-gallery--feed
+{
+	max-width:50% !important;
+}
+.product-details__sidebar
+{
+	min-width:50% !important;
+	padding:30px !important;
+}
+#dm .hasStickyHeader .dmInner div.dmHeaderContainer
+{
+	position:fixed !important;
+	z-index:101 !important;
+	width:100% !important;
+	min-width:100% !important;
+}
+.ec-store .product-details--layout-sidebar-right .product-details__sidebar
+{
+	background:#FFF !important;
+}
+.product-details__gallery.details-gallery.details-gallery--no-scroll
+{
+}
+*#dm *.dmBody div.u_1659200310 h1.product-details__product-title
+{
+	font-size:42px !important;
+}
+*#dm *.dmBody div.u_1659200310 h1.product-details__product-title *
+{
+	font-size:42px !important;
+}
+*#dm *.dmBody div.u_1659200310 div.product-details__product-title
+{
+	font-size:42px !important;
+}
+*#dm *.dmBody div.u_1659200310 div.product-details__product-title *
+{
+	font-size:42px !important;
+}
+*#dm *.dmBody div.u_1659200310 .product-details__product-price
+{
+	font-size:32px !important;
+}
+*#dm *.dmBody div.u_1659200310 .product-details__product-price *
+{
+	font-size:32px !important;
+}
+*#dm *.dmBody div.u_1659200310 .product-details__product-price-taxes
+{
+	font-size:32px !important;
+}
+*#dm *.dmBody div.u_1659200310 .product-details__product-price-taxes *
+{
+	font-size:32px !important;
+}
+*#dm *.dmBody div.u_1659200310 .product-details__product-description
+{
+	font-size:18px !important;
+}
+*#dm *.dmBody div.u_1659200310 .product-details__product-description *
+{
+	font-size:18px !important;
+}
+*#dm *.dmBody div.u_1659200310 .ec-breadcrumbs
+{
+	font-size:16px !important;
+}
+*#dm *.dmBody div.u_1659200310 .ec-breadcrumbs *
+{
+	font-size:16px !important;
+}
+*#dm *.dmBody div.u_1659200310 .form-control--primary .form-control__button
+{
+	height:50px !important;
+}
+*#dm *.dmBody div.u_1659200310 .form-control--secondary .form-control__button
+{
+	height:50px !important;
+}
+*#dm *.dmBody div.u_1659200310 .form-control--secondary .form-control__button .form-control__button-text
+{
+	font-size:21px !important;
+}
+*#dm *.dmBody div.u_1659200310 .form-control--secondary .form-control__button .form-control__button-svg
+{
+	font-size:21px !important;
+}
+*#dm *.dmBody div.u_1659200310 .ecwid-btn--primary
+{
+	height:50px !important;
+	font-size:21px !important;
+}
+*#dm *.dmBody div.u_1659200310 .form-control--primary .form-control__button .form-control__button-text
+{
+	font-size:21px !important;
+}
+*#dm *.dmBody div.u_1659200310 .form-control--primary .form-control__button .form-control__button-svg
+{
+	font-size:21px !important;
+}
+*#dm *.dmBody div.u_1659200310 .product-details-module__title
+{
+	font-size:24px !important;
+}
+*#dm *.dmBody div.u_1659200310 .product-details-module__title *
+{
+	font-size:24px !important;
+}
+*#dm *.dmBody div.u_1304912355
+{
+	margin-left:0px !important;
+	padding-top:0px !important;
+	padding-left:0px !important;
+	padding-bottom:0px !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	margin-right:0px !important;
+	padding-right:0px !important;
+	width:auto !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	position:relative !important;
+	height:auto !important;
+	min-height:auto !important;
+	max-width:100% !important;
+	min-width:0 !important;
+	text-align:start !important;
+}
+*#dm *.dmBody div.u_1577355224
+{
+	padding-top:0px !important;
+	padding-bottom:0px !important;
+	padding-right:0px !important;
+	padding-left:0px !important;
+	margin-left:0px !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	margin-right:0px !important;
+}
+*#dm *.dmBody div.u_1659200310
+{
+	float:none !important;
+	top:-26px !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0px !important;
+	padding-left:0px !important;
+	padding-bottom:0px !important;
+	min-height:auto !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:5px !important;
+	margin-bottom:20px !important;
+	padding-right:0px !important;
+	min-width:25px !important;
+	text-align:start !important;
+}
+*#dm *.dmBody div.u_1930546226
+{
+	height:75px !important;
+	float:none !important;
+	top:-19px !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	padding-top:0px !important;
+	padding-left:0px !important;
+	padding-bottom:0px !important;
+	min-height:auto !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	padding-right:0px !important;
+	min-width:25px !important;
+	text-align:start !important;
+}
+
+</style>
+
+<!-- Flex Sections CSS -->
+
+ <style id="grid-styles-desktop-8c7c9437-c8a3b909e9444877ab1223e38a6c4b5c" data-page-uuid="c8a3b909e9444877ab1223e38a6c4b5c">@media all {
+    
+#f93aa031 {
+    padding-top: 4%;
+    padding-bottom: 4%;
+    min-height: 240px;
+    column-gap: 4%;
+    row-gap: 24px;
+    width: 100%;
+    flex-wrap: nowrap;
+}
+    
+#\31 c563ecd {
+    min-height: 8px;
+    column-gap: 4%;
+    row-gap: 24px;
+    width: 48%;
+    min-width: 4%;
+    padding: 16px 16px 16px 16px;
+}
+    
+#group_5rg {
+    width: 48%;
+    min-width: 4%;
+    min-height: 8px;
+    column-gap: 4%;
+    row-gap: 24px;
+    padding: 16px 16px 16px 16px;
+}
+    
+#widget_7kn {
+    width: 100px;
+    height: auto;
+    max-width: 100%;
+}
+    
+#\35 75bf794 {
+    background-color: rgba(182,33,33,1);
+    background-image: initial;
+}
+    
+#widget_du3 {
+    width: 280px;
+    height: auto;
+    max-width: 100%;
+}
+}</style> 
+
+
+ <style id="grid-styles-tablet-8c7c9437-c8a3b909e9444877ab1223e38a6c4b5c" data-page-uuid="c8a3b909e9444877ab1223e38a6c4b5c">@media (min-width: 768px) and (max-width: 1024px) {
+    
+#f93aa031 {
+    padding-left: 2%;
+    padding-right: 2%;
+    min-height: 0px;
+}
+}</style> 
+
+
+ <style id="grid-styles-mobile_portrait-8c7c9437-c8a3b909e9444877ab1223e38a6c4b5c" data-page-uuid="c8a3b909e9444877ab1223e38a6c4b5c">@media (max-width: 767px) {
+    
+#f93aa031 {
+    min-height: 44px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    column-gap: 0%;
+    padding: 0% 0% 0% 0%;
+}
+    
+#\31 c563ecd {
+    width: 84.27%;
+    min-height: 8px;
+    align-items: center;
+    row-gap: 0px;
+    padding: 0px 0px 0px 0px;
+}
+    
+#group_5rg {
+    width: 15.730337078651685%;
+    min-height: 8px;
+    align-items: flex-end;
+    row-gap: 0px;
+    padding: 0px 0px 0px 0px;
+}
+    
+#widget_7kn {
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 40px;
+}
+    
+#\31 de24443 {
+    margin-top: 0px;
+}
+    
+#widget_du3 {
+    width: 100.00%;
+    align-self: stretch;
+    margin-left: 0px;
+    margin-right: 0px;
+    max-width: 100%;
+    height: auto;
+    min-height: 55px;
+}
+}</style> 
+
+
+
+
+
+
+<style id="globalFontSizeStyle" type="text/css">
+    .font-size-22, .size-22, .size-22 > font { font-size: 22px !important; }.font-size-18, .size-18, .size-18 > font { font-size: 18px !important; }.font-size-17, .size-17, .size-17 > font { font-size: 17px !important; }
+</style>
+<style id="pageFontSizeStyle" type="text/css">
+</style>
+
+
+
+
+<style id="hideAnimFix">
+  .dmDesktopBody:not(.editGrid) [data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) [data-anim-extended] {
+    visibility: hidden;
+  }
+
+  .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-extended] {
+    visibility: hidden !important;
+  }
+
+  
+  #dmRoot:not(.editGrid) .flex-element [data-anim-extended] {
+    visibility: hidden;
+  }
+
+  
+</style>
+
+
+
+
+<style id="fontFallbacks">
+    @font-face {
+  font-family: "Raleway Fallback";
+  src: local('Arial');
+  ascent-override: 89.616%;
+  descent-override: 22.3087%;
+  size-adjust: 104.892%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Roboto Condensed Fallback";
+  src: local('Arial');
+  ascent-override: 104.1828%;
+  descent-override: 27.4165%;
+  size-adjust: 89.0487%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Roboto Fallback";
+  src: local('Arial');
+  ascent-override: 92.6709%;
+  descent-override: 24.3871%;
+  size-adjust: 100.1106%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Playfair Display Fallback";
+  src: local('Arial');
+  ascent-override: 106.3701%;
+  descent-override: 24.6755%;
+  size-adjust: 101.7204%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Montserrat Fallback";
+  src: local('Arial');
+  ascent-override: 84.9466%;
+  descent-override: 22.0264%;
+  size-adjust: 113.954%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Noto Sans Fallback";
+  src: local('Arial');
+  ascent-override: 100.1833%;
+  descent-override: 27.459%;
+  size-adjust: 106.7044%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Poppins Fallback";
+  src: local('Arial');
+  ascent-override: 92.326%;
+  descent-override: 30.7753%;
+  line-gap-override: 8.793%;
+  size-adjust: 113.7274%;
+}@font-face {
+  font-family: "Arvo Fallback";
+  src: local('Arial');
+  ascent-override: 87.6577%;
+  descent-override: 22.538%;
+  line-gap-override: 2.4498%;
+  size-adjust: 109.6239%;
+}@font-face {
+  font-family: "Bebas Neue Fallback";
+  src: local('Arial');
+  ascent-override: 116.5002%;
+  descent-override: 38.8334%;
+  size-adjust: 77.2531%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Oswald Fallback";
+  src: local('Arial');
+  ascent-override: 145.0682%;
+  descent-override: 35.1423%;
+  size-adjust: 82.2372%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Arial Fallback";
+  src: local('Arial');
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Epilogue Fallback";
+  src: local('Arial');
+  ascent-override: 70.2338%;
+  descent-override: 20.8923%;
+  size-adjust: 112.4814%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Prata Fallback";
+  src: local('Arial');
+  ascent-override: 92.0833%;
+  descent-override: 33.5691%;
+  size-adjust: 107.8372%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Lato Fallback";
+  src: local('Arial');
+  ascent-override: 101.3181%;
+  descent-override: 21.865%;
+  size-adjust: 97.4159%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "PT Sans Fallback";
+  src: local('Arial');
+  ascent-override: 104.2579%;
+  descent-override: 28.2664%;
+  size-adjust: 97.6425%;
+  line-gap-override: 0%;
+ }
+</style>
+
+
+<!-- End render the required css and JS in the head section -->
+
+
+
+
+
+
+
+
+
+  <link type="application/rss+xml" rel="alternate" href="https://www.salsmamaroneck.com/feed/rss2"/>
+  <link type="application/atom+xml" rel="alternate" href="https://www.salsmamaroneck.com/feed/atom"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="https://www.salsmamaroneck.com/product/Soda-Can-12-Oz"/>
+  <title>
+    Can of Soda
+  </title>
+  <meta property="og:title" content="Can of Soda"/>
+  <meta property="og:url" content="https://www.salsmamaroneck.com/product/Soda-Can-12-Oz"/>
+  <meta property="og:image" content="https://d2j6dbq0eux0bg.cloudfront.net/images/69781776/3963182965.jpg"/>
+  <meta property="og:site_name" content="Sal’s Pizzeria Mamaroneck"/>
+  <meta property="og:type" content="website"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="Can of Soda"/>
+  <meta name="twitter:description" content="Can of Soda"/>
+  <meta name="twitter:image" content="https://d2j6dbq0eux0bg.cloudfront.net/images/69781776/3963182965.jpg"/>
+  <script type="application/ld+json">
+
+
+{"@context":"http://schema.org/","@type":"Product","name":"Can of Soda","image":[{"@type":"ImageObject","caption":"Can of Soda","name":"Can of Soda","description":"","url":"https://www.salsmamaroneck.com/product/Soda-Can-12-Oz-p443810444","contentUrl":"https://d2j6dbq0eux0bg.cloudfront.net/images/69781776/3963182965.jpg","width":1125,"height":1500,"thumbnail":{"@type":"ImageObject","caption":"Can of Soda","url":"https://www.salsmamaroneck.com/product/Soda-Can-12-Oz-p443810444","contentUrl":"https://d2j6dbq0eux0bg.cloudfront.net/images/69781776/3963182966.jpg","width":300,"height":400},"thumbnailUrl":"https://d2j6dbq0eux0bg.cloudfront.net/images/69781776/3963182966.jpg"}],"description":"","sku":"12 ounces","offers":{"@type":"Offer","priceCurrency":"USD","price":"2.0","priceSpecification":{"@type":"PriceSpecification","price":"2.0","priceCurrency":"USD","valueAddedTaxIncluded":false},"url":"https://www.salsmamaroneck.com/product/Soda-Can-12-Oz","itemCondition":"http://schema.org/NewCondition","availability":"http://schema.org/InStock","seller":{"@type":"Organization","name":"Sal’s Pizzeria Mamaroneck"}}}
+
+
+  </script>
+  <style>
+    
+    
+    
+    *#dm *.p_hfcontainer div.u_1634315649 {
+    display: block !important;
+}
+
+  
+  
+  </style>
+  <style>
+    
+    
+    
+    
+    *#dm *.p_hfcontainer div.u_1634315649 {
+    display: block !IMPORTANT;
+}
+    
+    #dm .p_hfcontainer div.u_1628475552 {
+    position: absolute !important;
+    right:0px !important;
+    left:auto !important;
+    top:13px !important;
+    text-align:right !important;
+    }
+    a.middleLogoLink {
+    margin-right: 3% !important;
+    margin-left: 3% !important;
+}
+    
+    .dm-common-icons-shopping-cart:before
+{
+	background-image:url(https://irp.cdn-website.com/7768788d/dms3rep/multi/Untitled-design-%283%29.svg) !important;
+	content:'' !important;
+	display:inline-flex !important;
+	min-width:25px !important;
+	min-height:25px !important;
+	background-size:contain !important;
+	background-repeat:no-repeat !important;
+	background-position:center !important;
+	margin-right:5px !important;
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </style>
+
+
+
+
+<!-- SYS- VVNfRElSRUNUX1BST0RVQ1RJT04= -->
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="dmRoot" data-page-alias="product"  class="dmRoot dmDesktopBody fix-mobile-scrolling addCanvasBorder dmResellerSite dmLargeBody responsiveTablet "
+      style="padding:0;margin:0;"
+      
+    >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ========= Site Content ========= -->
+<div id="dm" class='dmwr'>
+    
+    <div class="dm_wrapper standard-var5 widgetStyle-3 standard">
+         <div dmwrapped="true" id="1063955801"> <div dmtemplateid="Hamburger" data-responsive-name="ResponsiveDesktopTopTabletHamburger" class="runtime-module-container dm-bfs dm-layout-sec hasAnimations hide-back-to-top rows-1200 hasStickyHeader dmPageBody d-page-1333646182 dmFreeHeader" id="dm-outer-wrapper" data-page-class="1333646182" data-soch="true" data-background-parallax-selector=".dmHomeSection1, .dmSectionParallex"> <div id="dmStyle_outerContainer" class="dmOuter"> <div id="dmStyle_innerContainer" class="dmInner"> <div class="dmLayoutWrapper standard-var dmStandardDesktop"> <div id="site_content"> <div class="p_hfcontainer showOnMedium"> <div id="hamburger-drawer" class="hamburger-drawer layout-drawer" layout="e9d510f4eb904e939c2be8efaf777e6e===header" data-origin="side"> <div class="u_1142609176 dmRespRow" style="text-align: center;" id="1142609176"> <div class="dmRespColsWrapper" id="1308559995"> <div class="u_1564211022 dmRespCol small-12 medium-12 large-12 empty-column" id="1564211022"></div> 
+</div> 
+</div> 
+ <div class="u_1442820826 dmRespRow middleDrawerRow" style="text-align: center;" id="1442820826"> <div class="dmRespColsWrapper" id="1262203276"> <div class="dmRespCol small-12 u_1282953374 medium-12 large-12" id="1282953374"> <nav class="u_1107909734 hide-for-small unifiednav_vertical effect-bottom2 main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="vertical_nav_layout_2" layout-sub="" data-show-vertical-sub-items="HOVER" id="1107909734" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-logo-src="https://lirp.cdn-website.com/7768788d/dms3rep/multi/opt/SALSLOGO-1920w.png" alt="" data-nav-structure="VERTICAL" wr="true" icon="true" surround="true" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/" class="unifiednav__item    " target="" data-target-page-alias="home"> <span class="nav-item-text " data-link-text="Home" data-auto="page-text-style">Home<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/menu" class="unifiednav__item    " target="" data-target-page-alias="menu"> <span class="nav-item-text " data-link-text="MENU" data-auto="page-text-style">MENU<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/contact" class="unifiednav__item    " target="" data-target-page-alias="contact"> <span class="nav-item-text " data-link-text="CONTACT" data-auto="page-text-style">CONTACT<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/order-now#Catering" class="unifiednav__item    " target="" data-target-page-alias="order-now#Catering"> <span class="nav-item-text " data-link-text="Catering" data-auto="page-text-style">Catering<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="https://www.salsmamaroneck.com/account/" class="unifiednav__item    " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="My Account" data-auto="page-text-style">My Account<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/product/Gift-Card" class="unifiednav__item    " target="" data-target-page-alias="product/Gift-Card"> <span class="nav-item-text " data-link-text="Gift Cards" data-auto="page-text-style">Gift Cards<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/order-now" class="unifiednav__item    " target="" data-target-page-alias="order-now"> <span class="nav-item-text " data-link-text="Order" data-auto="page-text-style">Order<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1459249725" style="text-align: center;" id="1459249725"> <div class="dmRespColsWrapper" id="1911621087"> <div class="u_1798047134 dmRespCol small-12 medium-12 large-12" id="1798047134"> <div class="u_1850470142 dmNewParagraph" id="1850470142" style="transition: none;"> <div style="text-align:left;"> <font style="color:rgb(255, 255, 255);"> <b> <span class="font-size-22 lh-1"> <div style="text-align: left;"> <span style=""> <span style=""> <font style="color: rgb(255, 255, 255);"> <span style="" class="font-size-22 lh-1"> <b style=""> <span style="font-weight: 700;">Get in touch</span> 
+</b> 
+</span> 
+</font> 
+</span> 
+</span> 
+</div> 
+</span> 
+</b> 
+</font> 
+</div> 
+</div> <div class="u_1524875240 dmNewParagraph" id="1524875240"> <div style="text-align:left;"> <font style="color:rgb(255, 255, 255);"> <span style="font-size:20px;"> <div> <span style="font-size: 20px;"> <font style="color: rgb(255, 255, 255);"></font> 
+</span> 
+</div> 
+ <div> <span style="font-weight: 400;" class="font-size-18 lh-1"> <font style="color: rgb(103, 103, 103);"> <div style="text-align: left;"> <span style="font-weight: inherit;"> <font style="">555-555-5555</font> 
+</span> 
+</div> 
+ <div style="text-align: left;"> <span style="font-weight: inherit;"> <font style="">mymail@mailservice.com</font> 
+</span> 
+</div> 
+</font> 
+</span> 
+</div> 
+ <div> <span style="font-size: 20px;"> <font style="color: rgb(255, 255, 255);"></font> 
+</span> 
+</div> 
+</span> 
+</font> 
+</div> 
+</div> <div class="u_1492331895 align-center text-align-center dmSocialHub gapSpacing" id="1492331895" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://facebook.com/salsmamaroneck" target="_blank" dm_dont_rewrite_url="true" aria-label="facebook" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Facebook&apos;)"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style8" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://instagram.com/salsmamaroneck" target="_blank" dm_dont_rewrite_url="true" aria-label="instagram" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Instagram&apos;)"> <span class="dmSocialInstagram dm-social-icons-instagram oneIcon socialHubIcon style8" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="mailto:pizzafella@optonline.net" dm_dont_rewrite_url="true" aria-label="email" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Email&apos;)"> <span class="dmSocialEmail dm-social-icons-email oneIcon socialHubIcon style8" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://web.whatsapp.com/send?phone=(914) 381-2022" target="_blank" dm_dont_rewrite_url="true" aria-label="whatsapp" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Whatsapp&apos;)"> <span class="dmSocialWhatsapp dm-social-icons-whatsapp oneIcon socialHubIcon style8" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="layout-drawer-overlay" id="layout-drawer-overlay"></div> 
+</div> 
+ <div class="site_content"> <div id="hamburger-header-container" class="showOnMedium hamburger-header-container p_hfcontainer"> <div id="hamburger-header" class="hamburger-header p_hfcontainer" layout="44dc38f951e9489490b055748e10ba9f===header" data-scrollable-target="body" data-scroll-responder-id="hamburger-header"> <div class="u_1302929236 dmRespRow" style="text-align: center;" id="1302929236"> <div class="dmRespColsWrapper" id="1833260089"> <div class="u_1486837780 dmRespCol small-12 large-1 medium-1 content-removed" id="1486837780"> <div data-element-type="spacer" class="dmSpacer" id="1571426114"></div> 
+</div> 
+ <div class="u_1249640143 dmRespCol small-12 large-10 medium-10" id="1249640143"> <div class="u_1251043659 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1251043659"> <a id="1741640434" file="false" class="" href="/"><img src="https://lirp.cdn-website.com/7768788d/dms3rep/multi/opt/SALSLOGO-1920w.png" id="1323772334" class="" data-dm-image-path="https://lirp.cdn-website.com/7768788d/dms3rep/multi/opt/SALSLOGO-1920w.png" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+</div> 
+ <div class="u_1115171702 dmRespCol small-12 large-1 medium-1" id="1115171702"> <div class="u_1213351868 dmStoreCart" data-element-type="ec_store_cart" id="1213351868"> <span class="cartIcon dm-common-icons-shopping-cart ecwid" data-auto="cart-icon" style="font-family:'dm-common-icons' !important;" id="1263869820"> <span class="cartItems" id="1465270607">0</span> 
+</span> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <button class="showOnMedium layout-drawer-hamburger hamburger-on-header" id="layout-drawer-hamburger" aria-label="menu"> <span class="hamburger__slice"></span> 
+ <span class="hamburger__slice"></span> 
+ <span class="hamburger__slice"></span> 
+</button> 
+ <div class="dmHeaderContainer fHeader d-header-wrapper showOnLarge"> <div id="hcontainer" class="u_hcontainer dmHeader p_hfcontainer" freeheader="true" headerlayout="b58ba5b5703b4cd7b5f5f7951565dc87===horizontal-layout-5" layout="7f3c1de367df47d5b45ab63d33101c7b===header" has-shadow="true"> <div dm:templateorder="85" class="dmHeaderResp dmHeaderStack noSwitch" id="1709005236"> <div class="u_1634315649 dmRespRow dmDefaultListContentRow hide-for-large" style="text-align:center" id="1634315649"> <div class="dmRespColsWrapper" id="1826685761"> <div class="u_1095677604 dmRespCol small-12 medium-12 large-12" id="1095677604"> <div class="u_1304336497 dmRespRow" id="1304336497"> <div class="dmRespColsWrapper" id="1741009379"> <div class="u_1895625921 dmRespCol small-12 medium-12 large-12" id="1895625921"> <nav class="u_1039495200 hide-for-small effect-bottom main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_2" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1039495200" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-logo-src="https://lirp.cdn-website.com/7768788d/dms3rep/multi/opt/SALSLOGO-1920w.png" alt="" data-nav-structure="SPLIT" wr="true" icon="true" surround="true" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container left_nav " data-auto="navigation-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/" class="unifiednav__item    " target="" data-target-page-alias="home"> <span class="nav-item-text " data-link-text="Home" data-auto="page-text-style">Home<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/menu" class="unifiednav__item    " target="" data-target-page-alias="menu"> <span class="nav-item-text " data-link-text="MENU" data-auto="page-text-style">MENU<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/contact" class="unifiednav__item    " target="" data-target-page-alias="contact"> <span class="nav-item-text " data-link-text="CONTACT" data-auto="page-text-style">CONTACT<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="https://www.salsmamaroneck.com/product/account/" class="unifiednav__item    " target="" data-target-page-alias="https://www.salsmamaroneck.com/product/account/"> <span class="nav-item-text " data-link-text="Account" data-auto="page-text-style">Account<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+ <a class="middleLogoLink" href="/home"><img class="navLogo" id="navLogo" src="https://lirp.cdn-website.com/7768788d/dms3rep/multi/opt/SALSLOGO-1920w.png" alt="" onerror="handleImageLoadError(this)"/></a> 
+ <ul role="menubar" class="unifiednav__container right_nav "> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="https://www.salsmamaroneck.com/category/Catering" class="unifiednav__item    " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="Catering" data-auto="page-text-style">Catering<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/product/Gift-Card" class="unifiednav__item    " target="" data-target-page-alias="product/Gift-Card"> <span class="nav-item-text " data-link-text="Gift Cards" data-auto="page-text-style">Gift Cards<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/order-now" class="unifiednav__item    " target="" data-target-page-alias="order-now"> <span class="nav-item-text " data-link-text="Order" data-auto="page-text-style">Order<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a class="unifiednav__item    " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="Cart" data-auto="page-text-style">Cart<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+ <div class="u_1628475552 dmStoreCart" data-element-type="ec_store_cart" id="1628475552"> <span class="cartIcon dm-common-icons-shopping-cart ecwid" data-auto="cart-icon" style="font-family:'dm-common-icons' !important;" id="1752153576"> <span class="cartItems" id="1692832333">0</span> 
+</span> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1776367534 dmRespRow dmDefaultListContentRow" style="text-align:center" id="1776367534"> <div class="dmRespColsWrapper" id="1597745238"> <div class="u_1314722349 dmRespCol small-12 medium-12 large-12" id="1314722349"> <div class="u_1328608433 dmRespRow" id="1328608433"> <div class="dmRespColsWrapper" id="1317171613"> <div class="u_1236886537 dmRespCol small-12 medium-12 large-12" id="1236886537"> <nav class="u_1508656061 hide-for-small effect-bottom main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_2" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1508656061" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-logo-src="https://lirp.cdn-website.com/7768788d/dms3rep/multi/opt/SALSLOGO-1920w.png" alt="" data-nav-structure="SPLIT" wr="true" icon="true" surround="true" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container left_nav " data-auto="navigation-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/" class="unifiednav__item    " target="" data-target-page-alias="home"> <span class="nav-item-text " data-link-text="Home" data-auto="page-text-style">Home<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/menu" class="unifiednav__item    " target="" data-target-page-alias="menu"> <span class="nav-item-text " data-link-text="MENU" data-auto="page-text-style">MENU<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/contact" class="unifiednav__item    " target="" data-target-page-alias="contact"> <span class="nav-item-text " data-link-text="CONTACT" data-auto="page-text-style">CONTACT<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="https://www.salsmamaroneck.com/category/Catering" class="unifiednav__item    " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="Catering" data-auto="page-text-style">Catering<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+ <a class="middleLogoLink" href="/home"><img class="navLogo" id="navLogo" src="https://lirp.cdn-website.com/7768788d/dms3rep/multi/opt/SALSLOGO-1920w.png" alt="" onerror="handleImageLoadError(this)"/></a> 
+ <ul role="menubar" class="unifiednav__container right_nav "> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/product/Gift-Card" class="unifiednav__item    " target="" data-target-page-alias="product/Gift-Card"> <span class="nav-item-text " data-link-text="Gift Cards" data-auto="page-text-style">Gift Cards<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="https://www.salsmamaroneck.com/account/" class="unifiednav__item    " target="_blank" data-target-page-alias="https://www.salsmamaroneck.com/account/"> <span class="nav-item-text " data-link-text="Sign In & Save" data-auto="page-text-style">Sign In &amp; Save<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/order-now" class="unifiednav__item    " target="" data-target-page-alias="order-now"> <span class="nav-item-text " data-link-text="Order" data-auto="page-text-style">Order<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a class="unifiednav__item    " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="Cart" data-auto="page-text-style">Cart<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+ <div class="u_1550590183 dmStoreCart" data-element-type="ec_store_cart" id="1550590183"> <span class="cartIcon dm-common-icons-shopping-cart ecwid" data-auto="cart-icon" style="font-family:'dm-common-icons' !important;" id="1874293951"> <span class="cartItems" id="1442340265">0</span> 
+</span> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1204654445 dmRespRow" id="1204654445"> <div class="dmRespColsWrapper" id="1544314381"> <div class="u_1080959798 dmRespCol small-12 medium-12 large-12" id="1080959798"> <nav class="u_1866884480 effect-bottom2 hide-for-medium hide-for-large main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_1" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1866884480" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-logo-src="" alt="" data-nav-structure="HORIZONTAL" wr="true" icon="true" surround="true" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/order-now#Pizza" class="unifiednav__item    " target="" data-target-page-alias="order-now#Pizza"> <span class="nav-item-text " data-link-text="Pizza" data-auto="page-text-style">Pizza<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/order-now#Slices" class="unifiednav__item    " target="" data-target-page-alias="order-now#Slices"> <span class="nav-item-text " data-link-text="Slices" data-auto="page-text-style">Slices<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/order-now#AppsandSalads" class="unifiednav__item    " target="" data-target-page-alias="order-now#AppsandSalads"> <span class="nav-item-text " data-link-text="
+         Apps & Salads
+        " data-auto="page-text-style">Apps &amp; Salads<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="#" class="unifiednav__item    unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="More" data-auto="page-text-style">More<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/order-now#CalzonesandRolls" class="unifiednav__item    " target="" data-target-page-alias="order-now#CalzonesandRolls"> <span class="nav-item-text " data-link-text="
+         Calzones & Rolls
+        " data-auto="page-text-style">Calzones &amp; Rolls<span class="icon icon-angle-right" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/order-now#Wedges" class="unifiednav__item    " target="" data-target-page-alias="order-now#Wedges"> <span class="nav-item-text " data-link-text="
+         Wedges
+        " data-auto="page-text-style">Wedges<span class="icon icon-angle-right" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/order-now#Pasta" class="unifiednav__item    " target="" data-target-page-alias="order-now#Pasta"> <span class="nav-item-text " data-link-text="
+         Pasta
+        " data-auto="page-text-style">Pasta<span class="icon icon-angle-right" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/order-now#HotDishes" class="unifiednav__item    " target="" data-target-page-alias="order-now#HotDishes"> <span class="nav-item-text " data-link-text="
+         Hot Dishes
+        " data-auto="page-text-style">Hot Dishes<span class="icon icon-angle-right" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/order-now#SoupsandSides" class="unifiednav__item    " target="" data-target-page-alias="order-now#SoupsandSides"> <span class="nav-item-text " data-link-text="
+         Soups & Sides
+        " data-auto="page-text-style">Soups &amp; Sides<span class="icon icon-angle-right" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/order-now#Drinks" class="unifiednav__item    " target="" data-target-page-alias="order-now#Drinks"> <span class="nav-item-text " data-link-text="
+         Drinks
+        " data-auto="page-text-style">Drinks<span class="icon icon-angle-right" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/order-now#GiftCardsandMerch" class="unifiednav__item    " target="" data-target-page-alias="order-now#GiftCardsandMerch"> <span class="nav-item-text " data-link-text="
+         Gifts
+        " data-auto="page-text-style">Gifts<span class="icon icon-angle-right" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/order-now#Catering" class="unifiednav__item    " target="" data-target-page-alias="order-now#Catering"> <span class="nav-item-text " data-link-text="Catering" data-auto="page-text-style">Catering<span class="icon icon-angle-right" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</nav> 
+ <nav class="u_1457294033 hide-for-small effect-background main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_7" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1457294033" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-logo-src="" alt="" data-nav-structure="HORIZONTAL" wr="true" icon="true" surround="true" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/order-now#Pizza" class="unifiednav__item    " target="" data-target-page-alias="order-now#Pizza"> <span class="nav-item-text " data-link-text="Pizza" data-auto="page-text-style">Pizza<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/order-now#Slices" class="unifiednav__item    " target="" data-target-page-alias="order-now#Slices"> <span class="nav-item-text " data-link-text="Slices" data-auto="page-text-style">Slices<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/order-now#Appetizers" class="unifiednav__item    " target="" data-target-page-alias="order-now#Appetizers"> <span class="nav-item-text " data-link-text="Appetizers" data-auto="page-text-style">Appetizers<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/order-now#Salad" class="unifiednav__item    " target="" data-target-page-alias="order-now#Salad"> <span class="nav-item-text " data-link-text="Salad" data-auto="page-text-style">Salad<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/order-now#Soup" class="unifiednav__item    " target="" data-target-page-alias="order-now#Soup"> <span class="nav-item-text " data-link-text="Soup" data-auto="page-text-style">Soup<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/order-now#CalzonesandRolls" class="unifiednav__item    " target="" data-target-page-alias="order-now#CalzonesandRolls"> <span class="nav-item-text " data-link-text="
+         Calzones & Rolls
+        " data-auto="page-text-style">Calzones &amp; Rolls<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/order-now#Wedges" class="unifiednav__item    " target="" data-target-page-alias="order-now#Wedges"> <span class="nav-item-text " data-link-text="
+         Wedges
+        " data-auto="page-text-style">Wedges<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/order-now#Pasta" class="unifiednav__item    " target="" data-target-page-alias="order-now#Pasta"> <span class="nav-item-text " data-link-text="
+         Pasta
+        " data-auto="page-text-style">Pasta<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/order-now#HotDishes" class="unifiednav__item    " target="" data-target-page-alias="order-now#HotDishes"> <span class="nav-item-text " data-link-text="
+         Hot Dishes
+        " data-auto="page-text-style">Hot Dishes<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/order-now#SidesandSauces" class="unifiednav__item    " target="" data-target-page-alias="order-now#Sides"> <span class="nav-item-text " data-link-text="Sides & Sauces" data-auto="page-text-style">Sides &amp; Sauces<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="#" class="unifiednav__item    unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="More" data-auto="page-text-style">More<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/order-now#Drinks" class="unifiednav__item    " target="" data-target-page-alias="order-now#Drinks"> <span class="nav-item-text " data-link-text="
+         Drinks
+        " data-auto="page-text-style">Drinks<span class="icon icon-angle-right" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/order-now#GiftCardsandMerch" class="unifiednav__item    " target="" data-target-page-alias="order-now#GiftCardsandMerch"> <span class="nav-item-text " data-link-text="
+         Gifts
+        " data-auto="page-text-style">Gifts<span class="icon icon-angle-right" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/order-now#Catering" class="unifiednav__item    " target="" data-target-page-alias="order-now#Catering"> <span class="nav-item-text " data-link-text="Catering" data-auto="page-text-style">Catering<span class="icon icon-angle-right" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="stickyHeaderSpacer" id="stickyHeaderSpacer" data-new="true"></div> 
+ <div dmwrapped="true" id="dmFirstContainer" class="dmBody u_dmStyle_template_product"> <div id="allWrapper" class="allWrapper"> <div id="dm_content" class="dmContent" role="main"> <div dm:templateorder="1" class="dmDefaultRespTmpl" id="1333646182"> <div class="innerPageTmplBox dmDefaultPage  dmRespRowsWrapper" id="1176127138"> <div data-layout-section="" data-auto="flex-section" id="1137907256" data-flex-id="8c7c9437" class="u_1137907256 hide-for-large hide-for-medium"> <div class="flex-widgets-container" id="1056034051"></div> 
+ <section id="1de24443" class="flex-element section" data-auto="flex-element-section"> <div id="575bf794" class="flex-element grid" data-auto="flex-element-grid" data-layout-grid=""> <div id="f93aa031" class="flex-element group" data-auto="flex-element-group"> <div id="1c563ecd" class="flex-element group" data-auto="flex-element-group"> <div id="widget_du3" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="link" data-external-id="1022641269"> <a data-display-type="block" class="u_1022641269 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient flexButton" file="false" href="/order-now" data-element-type="dButtonLinkId" id="1022641269" data-buttonstyle="FLAT_ROUND_ICON" icon-name="icon-double-angle-left"> <span class="iconBg" aria-hidden="true" id="1426491061"> <span class="icon hasFontIconstar hasFontIcon icon-double-angle-left" id="1077404816"></span> 
+</span> 
+ <span class="text" id="1285642971">RETURN TO FULL MENU</span> 
+</a> 
+</div> 
+</div> 
+ <div id="group_5rg" class="flex-element group" data-auto="flex-element-group"> <div id="widget_7kn" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="estorecart" data-external-id="1569682105"> <div class="u_1569682105 dmStoreCart" data-element-type="ec_store_cart" id="1569682105"> <span class="cartIcon dm-common-icons-shopping-cart ecwid" data-auto="cart-icon" style="font-family:'dm-common-icons' !important;" id="1426961652"> <span class="cartItems" id="1053808467">0</span> 
+</span> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+</div> 
+ <div class="u_1304912355 dmRespRow dmSectionNoParallax" id="1304912355" data-gallery-bg="eyJzbGlkZXMiOlsiaHR0cHM6Ly9saXJwLmNkbi13ZWJzaXRlLmNvbS9tZC9kbWlwL2RtczNyZXAvbXVsdGkvb3B0L2xpZ2h0LWRpYWdvbmFsLXN0cmlwZS0xOTIwdy5wbmciXX0="> <div class="dmRespColsWrapper" id="1479815974"> <div class="dmRespCol large-12 medium-12 small-12 u_1577355224" id="1577355224"> <div class="imageWidget align-center u_1062361604" data-element-type="image" data-widget-type="image" id="1062361604"><img src="" alt="" id="1936839818" onerror="handleImageLoadError(this)"/></div> 
+ <div data-element-type="spacer" class="u_1930546226 dmSpacer hide-for-medium hide-for-small" id="1930546226"></div> 
+ <div class="u_1659200310 default dmDefaultGradient dmStore storeInitialMinHeight" id="1659200310" dmle_extension="ec_store" data-element-type="ec_store" wr="true" loadscript="true" icon="true" surround="true" adwords=""> <div id="my-store-69781776" class="xProductBrowser" data-store-version="2" data-cat-per-row="3" data-search-view="list" data-category-view="grid" data-id="69781776" data-views="grid(3,3) list(10) table(20)" data-initial-store-screen="" data-show-breadcrumbs="false" data-product-list-image-size="" data-product-list-image-aspect-ratio="" data-product-list-image-has-shadow="" data-product-list-show-additional-image-on-hover="" data-product-list-show-frame="" data-product-list-product-info-layout="" data-product-list-title-behavior="" data-product-list-sku-behavior="" data-product-list-price-behavior="" data-product-list-buybutton-behavior="" data-product-list-cell-spacing="" data-product-list-category-image-size="" data-product-list-category-image-aspect-ratio="" data-product-list-category-title-behavior="" data-product-list-category-cell-spacing="" data-enable-simple-category-list="false" data-breadcrumbs-separator="" data-show-signin-link="true" data-show-footer-menu="false" data-product-list-show-sort-viewas-options="" data-product-details-show-qty="true" data-product-details-show-in-stock-label="false" data-product-details-show-product-name="" data-product-details-show-number-of-items-in-stock="false" data-product-details-show-save-for-later="" data-product-details-show-buy-button="" data-product-details-show-product-price="" data-product-details-show-sale-price="" data-product-details-show-price-per-unit="false" data-product-details-show-tax="false" data-product-details-show-product-options="" data-product-details-show-product-sku="false" data-product-details-show-wholesale-prices="false" data-product-details-show-share-buttons="true" data-product-details-layout="TWO_COLUMNS_SIDEBAR_ON_THE_RIGHT" data-product-details-gallery-layout="IMAGE_FEED" data-product-details-thumbnails_aspect_ratio="landscape_15" data-product-details-two-columns-with-left-sidebar-show_product-description-on-sidebar="true" data-product-details-two-columns-with-right-sidebar-show-product-description-on-sidebar="true" data-mobile-product-list-category-cell-spacing="" data-mobile-product-list-category-title-behavior="" data-mobile-product-list-cell-spacing="" data-mobile-product-list-title-behavior="" data-mobile-product-list-sku-behavior="" data-mobile-product-list-price-behavior="" data-mobile-product-list-buybutton-behavior="" data-store-item-id="443810444"> <div id="static-product-browser"> <div class="static-content"> <div lang="en" class="ec-storefront-v3-ssr ecwid-no-touch ecwid-supports-cssanimations ec-size ec-size--xxs ec-size--xs ec-size--s ec-size--m ec-size--l ec-size--xl ecwid-responsive ecwid-no-dragndrop" style="opacity:0;"> <a id="ec-storefront-v3-top-scroller" style="width:0;height:0;position:absolute;display:block;"></a> 
+<!--[--> <div> <div class="ecwid-productBrowser ecwid-productBrowser-v3 ecwid-productBrowser-ProductPage ecwid-productBrowser-ProductPage-443810444"> <div> <div> <div class="ecwid-productBrowser-head"></div> 
+ <div> <div class="ec-wrapper"><!--[--><!--[--><!----> <div class="ec-store ec-store__product-page ec-store__product-page--443810444 ec-store__product-page--c125232544"> <div class="ec-store__content-wrapper"><!--[--><!--[--> <div class=""> <div class="product-details__top"><!----><!----></div> 
+ <div class="product-details product-details--layout-sidebar-left product-details--description-side product-details--no-description" itemtype="http://schema.org/Product" itemscope=""> <div class="product-details__gallery details-gallery details-gallery--no-scroll details-gallery--one-image"> <div class="details-gallery__wrap"> <div class="details-gallery__wrap-inner"> <div class="details-gallery__spacer" style="padding-top:133.33333333333334%;"></div> 
+ <div class="details-gallery__images details-gallery__images--aspect-ratio-auto"><!--[--> <div class="details-gallery__images-container"> <div class="details-gallery__images-controls details-gallery__images-controls--no-left details-gallery__images-controls--no-right" style=""> <div class="details-gallery__images-control details-gallery__images-control--left"></div> 
+ <div class="details-gallery__images-control details-gallery__images-control--right"></div> 
+</div> 
+ <div class="details-gallery__images-spacer" style="max-width:1536px;"> <div class="details-gallery__images-spacer-inner" style="padding-top:133.33333333333334%;"></div> 
+</div> 
+ <div class="details-gallery__images-carousel" style="transform:translateX(0%);"><!--[--><!--[--> <div class="details-gallery__image details-gallery__image--aspect-ratio-075 details-gallery__image--loading"> <div class="details-gallery__image-spacer"></div> 
+ <div class="details-gallery__image-wrapper"> <div class="details-gallery__image-wrapper-inner" style="max-width:1536px;aspect-ratio:0.75;min-height:min(2048px, 100%);width:auto;"><!----> <div class="details-gallery__image-bg details-gallery__image-bg--visible" style="background-color:#a79a91;background-image:-webkit-image-set(url(https://d2j6dbq0eux0bg.cloudfront.net/images/69781776/3963182966.jpg) 1x, url(https://d2j6dbq0eux0bg.cloudfront.net/images/69781776/3963182966.jpg) 2x);aspect-ratio:0.75;height:auto;top:auto;"></div> 
+<!----><img src="https://d2j6dbq0eux0bg.cloudfront.net/images/69781776/3963182965.jpg" srcset="https://d2j6dbq0eux0bg.cloudfront.net/images/69781776/3963182965.jpg 1x" alt="Soda Can - 12 Oz" title="Soda Can - 12 Oz" style="width:100%;" width="1536" height="2048" loading="eager" class="details-gallery__picture details-gallery__photoswipe-index-0" itemprop="image" onerror="handleImageLoadError(this)"/><!----></div> 
+<!----></div> 
+</div> 
+<!--]--><!--]--></div> 
+<!----></div> 
+<!--]--></div> 
+<!--[--> <div class="details-gallery__thumbs details-gallery__thumbs--preview details-gallery__thumbs--aspect-ratio-auto"><!--[--> <div class="details-gallery__thumb details-gallery__thumb--active details-gallery__thumb--aspect-ratio-075" style="vertical-align:bottom;"> <div class="details-gallery__thumb-spacer"></div> 
+ <div class="details-gallery__thumb-img-wrapper" style="display: flex"> <div class="details-gallery__thumb-img-wrapper-inner details-gallery__photoswipe-thumb-index-0" style="aspect-ratio:0.75;justify-content:center;margin:auto;vertical-align:middle;width:100%;height:100%;overflow:hidden;"> <div style="background-color:#a79a91;background-image:-webkit-image-set(url(https://d2j6dbq0eux0bg.cloudfront.net/images/69781776/3963182966.jpg) 1x, url(https://d2j6dbq0eux0bg.cloudfront.net/images/69781776/3963182966.jpg) 2x);display:block;aspect-ratio:0.75;width:100%;left:auto;top:auto;" class="details-gallery__thumb-bg details-gallery__thumb-bg--visible"></div> 
+<!--[--> <meta itemprop="image" content="https://d2j6dbq0eux0bg.cloudfront.net/images/69781776/3963182966.jpg"></meta> 
+ <a href="javascript:;" tabindex="0" aria-label="Soda Can - 12 Oz 0" style="background-image:-webkit-image-set(url(https://d2j6dbq0eux0bg.cloudfront.net/images/69781776/3963182966.jpg) 1x, url(https://d2j6dbq0eux0bg.cloudfront.net/images/69781776/3963182966.jpg) 2x);vertical-align:middle;left:auto;top:auto;width:100%;" class="details-gallery__thumb-img"></a> 
+<!--]--> <div class="details-gallery__thumb-shadow"></div> 
+<!----><!----><!----></div> 
+</div> 
+</div> 
+<!--]--></div> 
+<!--]--></div> 
+</div> 
+<!--[--> <div class="details-gallery__scroll"><!--[--> <div class="details-gallery__scroll-dot-container"> <div class="ec-text-muted details-gallery__scroll-dot details-gallery__scroll-dot--active"></div> 
+</div> 
+<!--]--></div> 
+<!--]--></div> 
+ <div class="product-details__sidebar"><!--[--> <h1 class="product-details__product-title ec-header-h3" itemprop="name">Soda Can - 12 Oz</h1> 
+<!----><!--]--><!--[--><!----><!--]--><!--[--><!--[--> <meta itemprop="sku" content="12 ounces"></meta> 
+<!--]--><!--]--><!--[--> <div class="product-details-module product-details__product-price-row"> <div class="product-details-module__content" itemprop="offers" itemtype="http://schema.org/Offer" itemscope=""><link itemprop="availability" href="http://schema.org/InStock"/> <meta itemprop="itemCondition" content="http://schema.org/NewCondition"></meta> 
+ <div itemprop="seller" itemtype="http://schema.org/Organization" itemscope=""> <meta itemprop="name" content="Sal’s Pizzeria Mamaroneck"></meta> 
+</div> 
+ <div class="product-details__product-price ec-price-item" itemprop="price" content="2"> <meta itemprop="priceCurrency" content="USD"></meta> 
+ <span class="details-product-price__value ec-price-item notranslate">$2</span> 
+<!----></div> 
+<!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></div> 
+</div> 
+<!--]--><!--[--><!----><!--]--><!--[--> <div class="product-details__product-options details-product-options"><!--[--> <div class="product-details-module details-product-option details-product-option--OPTIONS details-product-option--size"> <div class="product-details-module__title ec-header-h6 details-product-option__title"> <div class="marker-required marker-required--medium"></div> 
+<!--[-->OPTIONS<!----><!--]--></div> 
+<!----> <div class="product-details-module__content product-details__size-item-container"><!--[--> <div class="form-control form-control--checkbox-button details-product-option--Seltzer"><input id="form-control__radio--1318120623" type="radio" class="form-control__radio" name="OPTIONS" value="Seltzer"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio--1318120623">Seltzer<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Pepsi"><input id="form-control__radio--365084883" type="radio" class="form-control__radio" name="OPTIONS" value="Pepsi"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio--365084883">Pepsi<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Diet-Pepsi"><input id="form-control__radio--1642247811" type="radio" class="form-control__radio" name="OPTIONS" value="Diet Pepsi"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio--1642247811">Diet Pepsi<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Dr-Pepper"><input id="form-control__radio---1853207242" type="radio" class="form-control__radio" name="OPTIONS" value="Dr Pepper"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio---1853207242">Dr Pepper<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Crush-Orange"><input id="form-control__radio--2137877745" type="radio" class="form-control__radio" name="OPTIONS" value="Crush Orange"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio--2137877745">Crush Orange<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Crush-Grape"><input id="form-control__radio--1169954344" type="radio" class="form-control__radio" name="OPTIONS" value="Crush Grape"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio--1169954344">Crush Grape<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Rootber"><input id="form-control__radio--719655951" type="radio" class="form-control__radio" name="OPTIONS" value="Rootber"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio--719655951">Rootber<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Mountain-Dew"><input id="form-control__radio---1587266175" type="radio" class="form-control__radio" name="OPTIONS" value="Mountain Dew"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio---1587266175">Mountain Dew<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Ginger-Ale"><input id="form-control__radio---1384771968" type="radio" class="form-control__radio" name="OPTIONS" value="Ginger Ale"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio---1384771968">Ginger Ale<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Lipton-Brisk"><input id="form-control__radio---101387921" type="radio" class="form-control__radio" name="OPTIONS" value="Lipton Brisk"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio---101387921">Lipton Brisk<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Diet-Dr-Pepper"><input id="form-control__radio--1012394726" type="radio" class="form-control__radio" name="OPTIONS" value="Diet Dr Pepper"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio--1012394726">Diet Dr Pepper<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Diet-Ginger-Ale"><input id="form-control__radio--1549543120" type="radio" class="form-control__radio" name="OPTIONS" value="Diet Ginger Ale"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio--1549543120">Diet Ginger Ale<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Diet-Cream"><input id="form-control__radio--1630618196" type="radio" class="form-control__radio" name="OPTIONS" value="Diet Cream"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio--1630618196">Diet Cream<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Diet-Rootbeer"><input id="form-control__radio---319989504" type="radio" class="form-control__radio" name="OPTIONS" value="Diet Rootbeer"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio---319989504">Diet Rootbeer<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Diet-Black-Cherry"><input id="form-control__radio--1354459880" type="radio" class="form-control__radio" name="OPTIONS" value="Diet Black Cherry"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio--1354459880">Diet Black Cherry<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Black-Cherry"><input id="form-control__radio---1023793512" type="radio" class="form-control__radio" name="OPTIONS" value="Black Cherry"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio---1023793512">Black Cherry<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Diet-7-up"><input id="form-control__radio--1714745279" type="radio" class="form-control__radio" name="OPTIONS" value="Diet 7-up"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio--1714745279">Diet 7-up<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Caffeine-Free-Diet-Pepsi"><input id="form-control__radio---1314199024" type="radio" class="form-control__radio" name="OPTIONS" value="Caffeine Free Diet Pepsi"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio---1314199024">Caffeine Free Diet Pepsi<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Cream"><input id="form-control__radio--353455268" type="radio" class="form-control__radio" name="OPTIONS" value="Cream"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio--353455268">Cream<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Sprite"><input id="form-control__radio---1471173917" type="radio" class="form-control__radio" name="OPTIONS" value="Sprite"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio---1471173917">Sprite<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Coke"><input id="form-control__radio--1812514404" type="radio" class="form-control__radio" name="OPTIONS" value="Coke"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio--1812514404">Coke<!----></label> 
+<!--]--></div> 
+</div> 
+ <div class="form-control form-control--checkbox-button details-product-option--Diet-Coke"><input id="form-control__radio--1715165876" type="radio" class="form-control__radio" name="OPTIONS" value="Diet Coke"/> <div class="form-control__inline-label"><!--[--> <label for="form-control__radio--1715165876">Diet Coke<!----></label> 
+<!--]--></div> 
+</div> 
+<!--]--></div> 
+</div> 
+<!--]--></div> 
+<!--]--><!--[--><!----><!--]--><!--[--><!----><!--]--><!--[--><!----><!--]--><!--[--> <div class="product-details-module product-details__action-panel details-product-purchase"><!--[--><!----><!--]--> <div class="product-details-module__content product-details-module__content--indented"> <div class="details-product-purchase__qty"> <label for="qty-field"> <span class="details-product-purchase__qty-label notranslate">Quantity</span> 
+</label> 
+ <div class="form-control form-control--empty details-product-purchase__qty-field"><!--[--> <div class="form-control__loader"></div> 
+<input class="form-control__text" type="number" id="qty-field" name="ec-qty" aria-label="1" maxlength="10" min="1"/><!----> <div class="form-control__placeholder"> <div class="form-control__placeholder-inner">1</div> 
+</div> 
+<!--[--><!--]--><!--]--></div> 
+<!----></div> 
+ <div class="details-product-purchase__controls"> <div class="details-product-purchase__bag-controls"> <div class="details-product-purchase__add-buttons"> <div class="form-control form-control--button form-control--large form-control--secondary form-control--flexible form-control--animated form-control--done details-product-purchase__add-more"> <button class="form-control__button form-control__button--icon-center" type="button"><!----><!----> <span class="form-control__button-text"><!--[-->Add More<!--]--></span> 
+ <span class="form-control__button-svg"> <span class="svg-icon"><!--[--> <svg width="27" height="23" viewbox="0 0 27 23" xmlns="http://www.w3.org/2000/svg"> <path class="svg-line-check" d="M1.97 11.94L10.03 20 25.217 2" fill="none" fill-rule="evenodd" stroke="currentColor" stroke-width="3" stroke-linecap="round"></path> 
+</svg> 
+<!--]--></span> 
+</span> 
+</button> 
+</div> 
+ <div class="form-control form-control--button form-control--large form-control--primary form-control--flexible form-control--animated form-control--done details-product-purchase__add-to-bag"> <button class="form-control__button form-control__button--icon-center" type="button"><!----><!----> <span class="form-control__button-text"><!--[-->Add to Bag<!--]--></span> 
+ <span class="form-control__button-svg"> <span class="svg-icon"><!--[--> <svg width="27" height="23" viewbox="0 0 27 23" xmlns="http://www.w3.org/2000/svg"> <path class="svg-line-check" d="M1.97 11.94L10.03 20 25.217 2" fill="none" fill-rule="evenodd" stroke="currentColor" stroke-width="3" stroke-linecap="round"></path> 
+</svg> 
+<!--]--></span> 
+</span> 
+</button> 
+</div> 
+<!----></div> 
+</div> 
+ <div class="details-product-purchase__checkout-controls"> <div class="form-control form-control--button form-control--large form-control--primary form-control--flexible form-control--done details-product-purchase__checkout"> <button class="form-control__button" type="button"><!----><!----> <span class="form-control__button-text"><!--[-->Go to Checkout<!--]--></span> 
+<!----></button> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+<!--]--><!--[--><!----><!--]--><!--[--> <div class="product-details-module product-details__product-like favorite-product"> <div class="product-details-module__title ec-header-h6 favorite-product__title"></div> 
+ <div class="product-details-module__content product-details-module__content--indented"> <div class="form-control form-control--button form-control--medium form-control--secondary form-control--done favorite-product__button-add"> <button class="form-control__button form-control__button--icon-prepend" type="button" arialabel="" role="button" ariapressed="false"><!----> <span class="form-control__button-svg"> <span class="svg-icon"><!--[--> <svg width="22" height="22" viewbox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"> <path d="M11.363 16.152a.531.531 0 0 0-.013-.013l.013.013zm-.713-.013l.012-.011a.405.405 0 0 0-.012.011zm4.854-4.674a6.124 6.124 0 0 0 .781-.908c.453-.647.715-1.3.715-1.9C17 6.924 16.055 6 14.266 6c-.786 0-1.724.57-2.563 1.4L11 8.092l-.703-.694C9.458 6.57 8.52 6 7.734 6 5.945 6 5 6.925 5 8.656c0 1.043.776 2.167 1.476 2.78L11 15.803l4.504-4.337zM18 8.656c0 1.875-1.719 3.446-1.79 3.516l-4.866 4.687A.485.485 0 0 1 11 17a.485.485 0 0 1-.344-.14l-4.875-4.704C5.72 12.102 4 10.531 4 8.656 4 6.367 5.398 5 7.734 5 9.102 5 10.383 6.078 11 6.688 11.617 6.077 12.898 5 14.266 5 16.602 5 18 6.367 18 8.656z" fill="currentColor" fill-rule="evenodd"></path> 
+</svg> 
+<!--]--></span> 
+</span> 
+ <span class="form-control__button-text"><!--[-->Favorite<!--]--></span> 
+<!----></button> 
+</div> 
+ <div class="form-control form-control--button form-control--medium form-control--secondary form-control--done favorite-product__button-saved"> <button class="form-control__button form-control__button--icon-prepend" type="button" arialabel="" ariapressed="true"><!----> <span class="form-control__button-svg"> <span class="svg-icon"><!--[--> <svg width="22" height="22" viewbox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"> <path d="M18 8.656c0 1.875-1.719 3.446-1.79 3.516l-4.866 4.687A.485.485 0 0 1 11 17a.485.485 0 0 1-.344-.14l-4.875-4.704C5.72 12.102 4 10.531 4 8.656 4 6.367 5.398 5 7.734 5 9.102 5 10.383 6.078 11 6.688 11.617 6.077 12.898 5 14.266 5 16.602 5 18 6.367 18 8.656z" fill="currentColor" fill-rule="evenodd"></path> 
+</svg> 
+<!--]--></span> 
+</span> 
+ <span class="form-control__button-text"><!--[-->Favorited<!--]--></span> 
+<!----></button> 
+</div> 
+ <div class="form-control form-control--button form-control--medium form-control--secondary form-control--done favorite-product__button-view"> <button class="form-control__button" type="button" arialabel="View Favorites" role="button"><!----><!----> <span class="form-control__button-text"><!--[-->View Favorites<!--]--></span> 
+<!----></button> 
+</div> 
+</div> 
+</div> 
+<!--]--><!--[--> <div class="review-block"> <div> <div class="review-block__title">Customer reviews <div class="review-block__sub-title ec-text-muted"> <svg width="12" height="12" viewbox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="review-block__sub-title--icon"> <path fill-rule="evenodd" clip-rule="evenodd" d="M1 2H1.98249C2.97693 2 4.13658 1.51805 5 1L6 0.5L7 1C7.86342 1.51805 9.02307 2 10.0175 2H11V5.51806C11 7.67121 9.90122 9.65927 8.12079 10.7275L6 12L3.87921 10.7275C2.09878 9.65927 1 7.67121 1 5.51806V2ZM8.51494 3.77393L5.52275 6.76611L4.12822 5.37158L3.20898 6.29082L5.5293 8.61113L9.43418 4.69316L8.51494 3.77393Z" fill="#757575"></path> 
+</svg> 
+Reviews only from verified customers</div> 
+</div> 
+ <div class="review-block__description">No reviews yet. You can buy this product and be the first to leave a review.</div> 
+</div> 
+</div> 
+<!--]--><!--[--> <div class="product-details__product-share details-product-share"><!----> <div class="product-details-module"> <div class="product-details-module__title ec-header-h6 details-product-share__title">Share this product with your friends</div> 
+ <div class="product-details-module__content product-details-module__content--indented"> <div class="ec-likely details-product-share__buttons"> <div class="ec-likely__wrapper"> <a href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.salsmamaroneck.com%2Fproduct%2FSoda-Can-12-Oz-p443810444" target="_blank" rel="noopener noreferrer" class="ec-likely__widget ec-likely__widget--facebook"> <span class="ec-likely__icon ec-likely__icon--facebook"> <svg height="16" width="16" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16"> <path d="M13 0H3C1 0 0 1 0 3v10c0 2 1 3 3 3h5V9H6V7h2V5c0-2 2-2 2-2h3v2h-3v2h3l-.5 2H10v7h3c2 0 3-1 3-3V3c0-2-1-3-3-3z"></path> 
+</svg> 
+</span> 
+ <span class="ec-likely__button ec-likely__button--facebook">Share</span> 
+</a> 
+ <a href="https://twitter.com/intent/tweet/?text=Soda+Can+-+12+Oz&url=https%3A%2F%2Fwww.salsmamaroneck.com%2Fproduct%2FSoda-Can-12-Oz-p443810444" target="_blank" rel="noopener noreferrer" class="ec-likely__widget ec-likely__widget--twitter"> <span class="ec-likely__icon ec-likely__icon--twitter"> <svg height="16" width="16" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16" fill="#000000"> <path d="M9.634 6.81 14.857 1h-2.285l-3.99 4.433L5.143 1H0l5.817 7.525L0 15h2.286L6.88 9.878 10.857 15H16L9.634 6.81Zm-6.8-4.422H4.48l8.686 11.247H11.52L2.834 2.388Z"></path> 
+</svg> 
+</span> 
+ <span class="ec-likely__button ec-likely__button--twitter">Share</span> 
+</a> 
+<!----> <a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.salsmamaroneck.com%2Fproduct%2FSoda-Can-12-Oz-p443810444&media=https%3A%2F%2Fd2j6dbq0eux0bg.cloudfront.net%2Fimages%2F69781776%2F3963182965.jpg&description=Soda+Can+-+12+Oz" target="_blank" rel="noopener noreferrer" class="ec-likely__widget ec-likely__widget--pinterest"> <span class="ec-likely__icon ec-likely__icon--pinterest"> <svg height="16" width="16" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16"> <path d="M7.99 0c-4.417 0-8 3.582-8 8 0 3.39 2.11 6.284 5.086 7.45-.07-.633-.133-1.604.028-2.295.145-.624.938-3.977.938-3.977s-.24-.48-.24-1.188c0-1.112.645-1.943 1.448-1.943.683 0 1.012.512 1.012 1.127 0 .686-.437 1.713-.663 2.664-.19.796.398 1.446 1.184 1.446 1.422 0 2.515-1.5 2.515-3.664 0-1.915-1.377-3.255-3.343-3.255-2.276 0-3.612 1.707-3.612 3.472 0 .688.265 1.425.595 1.826.065.08.075.15.055.23-.06.252-.195.796-.222.907-.035.146-.116.177-.268.107-1-.465-1.624-1.926-1.624-3.1 0-2.523 1.835-4.84 5.287-4.84 2.775 0 4.932 1.977 4.932 4.62 0 2.757-1.74 4.976-4.152 4.976-.81 0-1.573-.42-1.834-.92l-.498 1.903c-.18.695-.668 1.566-.994 2.097.75.232 1.544.357 2.37.357 4.417 0 8-3.582 8-8s-3.583-8-8-8z"></path> 
+</svg> 
+</span> 
+ <span class="ec-likely__button ec-likely__button--pinterest">Pin it</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+<!--]--></div> 
+ <div class="product-details__description product-details__description--blank"> <div class="product-details__product-title ec-header-h3">Soda Can - 12 Oz</div> 
+<!----><!----><!----><!----></div> 
+ <div class="clearboth"></div> 
+</div> 
+</div> 
+<!----><!----><!--]--><!--]--> <div class="ec-footer"> <ul class="ec-footer__row" data-items="6"><!--[--> <li class="ec-footer__cell"><!--[--> <a href="https://www.salsmamaroneck.com/product/search" class="ec-footer__link ec-link ec-link--muted link--icon-top footer__link--all-products"><!--[--><!--[--> <span class="svg-icon"> <svg height="17" width="24" viewbox="0 0 24 17 " xmlns="http://www.w3.org/2000/svg"> <g fill="currentColor" fill-rule="nonzero"> <path d="M19.121 12.864a.5.5 0 0 1 .707-.707l4 4a.5.5 0 0 1-.707.707l-4-4z"></path> 
+ <path d="M14.5 14a6.5 6.5 0 1 0 0-13 6.5 6.5 0 0 0 0 13zm0 1a7.5 7.5 0 1 1 0-15 7.5 7.5 0 0 1 0 15zM5.5 1a.5.5 0 0 1 0 1h-5a.5.5 0 0 1 0-1h5zM4.5 9a.5.5 0 0 1 0 1h-4a.5.5 0 0 1 0-1h4zM5.5 13a.5.5 0 1 1 0 1h-5a.5.5 0 1 1 0-1h5zM4.5 5a.5.5 0 0 1 0 1h-4a.5.5 0 0 1 0-1h4z"></path> 
+</g> 
+</svg> 
+</span> 
+Search our menu<!----><!--]--><!--]--></a> 
+<!----><!----><!--]--></li> 
+ <li class="ec-footer__cell"><!--[--> <a href="https://www.salsmamaroneck.com/product/account" class="ec-footer__link ec-link ec-link--muted link--icon-top footer__link--my-account"><!--[--><!--[--> <span class="signInSvgIconView svg-icon"> <svg width="22" height="22" viewbox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"> <g fill-rule="nonzero" fill="currentColor"> <path d="M11 21c5.523 0 10-4.477 10-10S16.523 1 11 1 1 5.477 1 11s4.477 10 10 10zm0 1C4.925 22 0 17.075 0 11S4.925 0 11 0s11 4.925 11 11-4.925 11-11 11z"></path> 
+ <path d="M18.08 18.854c-.502-.617-1.156-1.143-1.974-1.612-.168-.096-.46-.248-.902-.47-.358-.18-.97-.483-.94-.466-.543-.295-.927-.56-1.117-.782l-.155-.824c1.625-.848 2.563-2.847 2.563-5.24 0-2.96-1.872-5.04-4.555-5.04S6.446 6.5 6.446 9.46c0 2.42.945 4.427 2.588 5.26l-.135.725c-.16.214-.7.595-1.188.865.032-.018-.567.28-.973.485-.4.2-.69.353-.856.45-.81.463-1.457.986-1.956 1.595.092.29.512.498.81.588.426-.507.973-.932 1.644-1.317.407-.233 1.794-.914 1.814-.925.352-.195 1.17-.694 1.504-1.143l.14-.186.315-1.69-.67-.34c-1.25-.633-2.04-2.272-2.04-4.365 0-2.472 1.49-4.04 3.555-4.04 2.067 0 3.555 1.568 3.555 4.04 0 2.07-.784 3.705-2.026 4.353l-.657.343.34 1.816.175.204c.33.385.884.73 1.4 1.01.024.01 1.413.69 1.82.924.697.398 1.26.838 1.69 1.368.468-.186.663-.403.782-.624z"></path> 
+</g> 
+</svg> 
+</span> 
+My Account<!----><!--]--><!--]--></a> 
+<!----><!----><!--]--></li> 
+ <li class="ec-footer__cell"><!--[--> <a href="https://www.salsmamaroneck.com/product/account" class="ec-footer__link ec-link ec-link--muted link--icon-top footer__link--track-order"><!--[--><!--[--> <span class="svg-icon"> <svg width="16" height="18" viewbox="0 0 16 18" xmlns="http://www.w3.org/2000/svg"> <g fill-rule="nonzero" fill="currentColor"> <path d="M1 5.414V17h14V1H5.414L1 5.414zM15 0c.552 0 1 .445 1 .993v16.014c0 .548-.445.993-1 .993H1c-.552 0-1-.445-1-.993V5l5-5h10z"></path> 
+ <path d="M5.108 9.832c-.19-.2-.508-.205-.707-.013-.198.19-.204.507-.012.706l2.823 2.93c.216.225.58.2.765-.05l5.153-7.04c.164-.223.115-.536-.108-.7-.222-.162-.535-.114-.698.11l-4.803 6.56L5.107 9.83zM0 5v1h6V0H5v5"></path> 
+</g> 
+</svg> 
+</span> 
+Track Orders<!----><!--]--><!--]--></a> 
+<!----><!----><!--]--></li> 
+ <li class="ec-footer__cell"><!--[--> <a href="https://www.salsmamaroneck.com/product/account/favorites" class="ec-footer__link ec-link ec-link--muted link--icon-top footer__link--empty footer__link--favorites"><!--[--><!--[--> <span class="svg-icon"> <svg width="18" height="16" viewbox="0 0 18 16" xmlns="http://www.w3.org/2000/svg"> <path d="M9 16c-.16 0-.32-.063-.442-.188L2.29 9.543C2.21 9.47 0 7.375 0 4.875 0 1.823 1.798 0 4.8 0 6.56 0 8.207 1.438 9 2.25 9.794 1.437 11.44 0 13.2 0 16.2 0 18 1.823 18 4.875c0 2.5-2.21 4.594-2.3 4.688l-6.258 6.25c-.12.124-.28.187-.442.187zm5.98-7.132c.105-.103.215-.216.356-.375.235-.264.467-.56.684-.88.618-.914.98-1.85.98-2.738C17 2.373 15.647 1 13.2 1c-1.098 0-2.358.795-3.485 1.95L9 3.68l-.715-.73C7.158 1.794 5.898 1 4.8 1 2.354 1 1 2.373 1 4.875 1 6.4 2.043 7.967 2.997 8.835L9 14.84l5.98-5.972z" fill="currentColor" fill-rule="nonzero"></path> 
+</svg> 
+</span> 
+Favorites<!----><!--]--><!--]--></a> 
+<!----><!----><!--]--></li> 
+ <li class="ec-footer__cell"><!--[--> <a href="https://www.salsmamaroneck.com/product/cart" class="ec-footer__link ec-link ec-link--muted link--icon-top footer__link--empty footer__link--shopping-cart"><!--[--><!--[--> <span class="svg-icon"> <svg width="16" height="20" viewbox="0 0 16 20" xmlns="http://www.w3.org/2000/svg"> <g fill="none" fill-rule="evenodd"> <path d="M1 5v13.006c0 .548.446.994.994.994h12.012c.548 0 .994-.446.994-.994V5H1zm15-1v14.006c0 1.1-.895 1.994-1.994 1.994H1.994C.894 20 0 19.105 0 18.006V4h16z" fill="currentColor" fill-rule="nonzero"></path> 
+ <path d="M5 7s-.005.5-.504.5C3.996 7.5 4 7 4 7V4c0-2.21 1.79-4 4-4s4 1.79 4 4v3s-.002.5-.5.5S11 7 11 7V4c0-1.657-1.343-3-3-3S5 2.343 5 4v3z" fill="currentColor"></path> 
+</g> 
+</svg> 
+</span> 
+Shopping Bag<!----><!--]--><!--]--></a> 
+<!----><!----><!--]--></li> 
+ <li class="ec-footer__cell"><!--[--> <a href="https://www.salsmamaroneck.com/product/Gift-Card-p442810954" class="ec-footer__link ec-link ec-link--muted link--icon-top footer__link--gift-card" data-product-id="442810954"><!--[--><!--[--> <span class="svg-icon"> <svg width="21" height="16" viewbox="0 0 21 16" xmlns="http://www.w3.org/2000/svg"> <g fill="currentColor"> <path d="M19.2,16H1.8A1.82,1.82,0,0,1,0,14.2V1.8A1.82,1.82,0,0,1,1.8,0H19.2A1.82,1.82,0,0,1,21,1.8V14.2A1.82,1.82,0,0,1,19.2,16ZM1.8,1a.82.82,0,0,0-.8.8V14.2a.82.82,0,0,0,.8.8H19.2a.82.82,0,0,0,.8-.8V1.8a.82.82,0,0,0-.8-.8Z"></path> 
+ <rect x="10" y="0.7" width="1" height="14.8"></rect> 
+ <rect x="16" y="8" width="5" height="1"></rect> 
+ <rect y="8" width="5" height="1"></rect> 
+ <path d="M9.22,9.06l.66-1c.55-.86,1.15-1.71,1.73-2.53l.48-.69a2.13,2.13,0,0,1,1.61-.74h0a2.09,2.09,0,0,1,1.58.7A2,2,0,0,1,14.34,8c-.68.16-1.34.28-2,.41s-1.28.25-1.93.4Zm4.48-4h0a1.08,1.08,0,0,0-.82.36l-.46.65c-.34.48-.69,1-1,1.48l.77-.15c.64-.12,1.28-.25,1.93-.4a1,1,0,0,0,.62-.67.93.93,0,0,0-.19-.91A1.05,1.05,0,0,0,13.7,5.07Z"></path> 
+ <path d="M11.77,9.05l-1.18-.26c-.65-.15-1.27-.28-1.89-.4S7.44,8.14,6.79,8A2.24,2.24,0,0,1,5.4,6.51,2,2,0,0,1,5.7,4.8a2.19,2.19,0,0,1,3.18,0A38.38,38.38,0,0,1,11.12,8Zm-4.47-4a1.05,1.05,0,0,0-.82.36.9.9,0,0,0-.12.81,1.23,1.23,0,0,0,.73.8l1.81.37.73.15A25.86,25.86,0,0,0,8.11,5.41,1.07,1.07,0,0,0,7.3,5.07Z"></path> 
+ <path d="M6.2,11.2v-1A5.38,5.38,0,0,0,7.76,10a4.37,4.37,0,0,0,2.31-2.83L10.15,7l.9.44,0,.1a5.09,5.09,0,0,1-3,3.45A6.25,6.25,0,0,1,6.2,11.2Z"></path> 
+ <path d="M14.9,11.2A6.32,6.32,0,0,1,13.06,11a5.11,5.11,0,0,1-3-3.46l0-.11L11,7l.08.21A4.37,4.37,0,0,0,13.37,10a5.38,5.38,0,0,0,1.53.17Z"></path> 
+</g> 
+</svg> 
+</span> 
+Gift Cards<!----><!--]--><!--]--></a> 
+<!----><!----><!--]--></li> 
+<!--]--></ul> 
+ <div class="ec-currency-converter-element ec-currency-converter-selector"> <div class="form-control form-control--select-inline"> <div class="form-control__select-text"> <span class="form-control__select-text">Display prices in:</span> 
+ <span>USD</span> 
+</div> 
+ <select class="form-control__select" aria-label="Display prices in:"></select> 
+ <div class="form-control__arrow"> <svg width="12" height="12" viewbox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"> <path d="M11 4L6 9 1 4" fill="none" fill-rule="evenodd" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"></path> 
+</svg> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+<!--]--><!--]--> <div class="ec-store ec-store--no-transition"> <div class="ec-notices ec-notices--animation-default ec-notices--order-direct ec-notices--fixed ec-notices--top ec-notices--right"> <div class="ec-notices__wrap"><!--[--><!--]--></div> 
+</div> 
+</div> 
+<!----><!----></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+<!----><!----></div> 
+<!--]--> <style>.ec-store * {
+      transition: none !important;
+    }</style> 
+</div> 
+</div> 
+</div> 
+<link rel="stylesheet" type="text/css" href="https://d1oxsl77a1kjht.cloudfront.net/css/new?hc=-206604803&ownerid=69781776&frontendV2=true"/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="sticky-widgets-container-global" id="1342098965"></div> 
+ <div class="dmFooterContainer"> <div id="fcontainer" class="u_fcontainer f_hcontainer dmFooter p_hfcontainer"> <div dm:templateorder="250" class="dmFooterResp generalFooter" id="1943048428"> <div class="u_1056687270 dmRespRow fullBleedChanged fullBleedMode" id="1056687270"> <div class="dmRespColsWrapper" id="1482380196"> <div class="dmRespCol large-12 medium-12 small-12 u_1051488062" id="1051488062"> <div class="u_1615671426 default dmDefaultGradient align-center hasFullWidth hasFullWidthMobile inlineMap" data-type="inlineMap" data-lat="40.95094" data-lng="-73.73521" data-address="316 Mamaroneck Ave, Mamaroneck, NY, United States" data-height="" data-msid="" data-mapurl="" data-lang="en" data-color-scheme="" data-zoom="13" data-layout="layout3" data-popup-display="click" data-popup-show="false" data-popup-title="" data-popup-title-visible="false" data-popup-description="" data-popup-description-visible="false" id="1615671426" dmle_extension="mapextension" data-element-type="mapextension" modedesktop="map" modemobile="map" addresstodisplay="316 Mamaroneck Ave, Mamaroneck, NY, United States" geocompleteaddress="316 Mamaroneck Ave, Mamaroneck, NY, United States" data-popup-display-desktop="click" zoom="13" data-popup-display-mobile="" data-display-type="block" layout="layout3" dmmapsource="dm" modetablet="map" wr="true" icon="true" surround="true" adwords="" icon-name="icon-map-marker" street="" city="" country="US" country_full="United States" state="" zip="" business="Sal's Pizzeria" provider="mapbox" lon="-73.73521" lat="40.95094"> <div class="mapContainer" style="height: 100%; width: 100%; overflow: hidden; z-index: 0;"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1369514306 dmRespRow" id="1369514306"> <div class="dmRespColsWrapper" id="1420749914"> <div class="dmRespCol large-12 medium-12 small-12" id="1105422162"> <div class="u_1937671568 align-center text-align-center dmSocialHub gapSpacing" id="1937671568" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://facebook.com/salsmamaroneck/" target="_blank" dm_dont_rewrite_url="true" aria-label="facebook" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Facebook&apos;)"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://instagram.com/salsmamaroneck" target="_blank" dm_dont_rewrite_url="true" aria-label="instagram" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Instagram&apos;)"> <span class="dmSocialInstagram dm-social-icons-instagram oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://www.yelp.com/biz/sals-pizzeria-mamaroneck" target="_blank" dm_dont_rewrite_url="true" aria-label="yelp" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Yelp&apos;)"> <span class="dmSocialYelp dm-social-icons-yelp oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1950172905 dmRespRow fullBleedChanged fullBleedMode" id="1950172905"> <div class="dmRespColsWrapper" id="1947760167"> <div class="dmRespCol large-12 medium-12 small-12" id="1317266978"> <div class="u_1602909898 dmDividerWrapper clearfix" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1602909898"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1921535521"/></div> 
+ <div class="u_1992104299 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1992104299" style="transition: none 0s ease 0s; text-align: left;"><p class="m-text-align-center text-align-center m-size-13 size-17"><span style="color:var(--color_2);font-weight:400;display:initial;font-family:'Roboto Condensed', 'Roboto Condensed Fallback';" class="font-size-17 m-font-size-13" m-font-size-set="true">&copy; 2024 All Rights Reserved.&nbsp; Sal's Pizzeria.&nbsp;</span><span single-space="true" class="font-size-17 m-font-size-13" style="display: initial; font-weight: 400;"> <span style="display: initial; font-weight: 400;" class="font-size-17 m-font-size-13"></span> 
+</span><span style="color:var(--color_2);font-weight:400;display:initial;font-family:'Roboto Condensed', 'Roboto Condensed Fallback';" class="font-size-17 m-font-size-13" m-font-size-set="true">Made by</span><span single-space="true" class="font-size-17 m-font-size-13" style="display: initial; font-weight: 400;"> <span style="display: initial; font-weight: 400;" class="font-size-17 m-font-size-13"></span> 
+</span><a href="https://www.thisisrecipe.com" target="_blank" runtime_url="https://www.thisisrecipe.com" type="url" class="font-size-17 m-font-size-13" style="color:var(--color_2);font-weight:bold;display:initial;text-decoration:none;font-family:'Roboto Condensed', 'Roboto Condensed Fallback';" m-font-size-set="true"><strong>Recipe</strong></a><span m-font-size-set="true" class="font-size-17 m-font-size-13" style="font-weight:400;display:initial;font-family:'Roboto Condensed', 'Roboto Condensed Fallback';">&nbsp;</span></p></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div id="1236746004" dmle_extension="powered_by" data-element-type="powered_by" icon="true" surround="false"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+
+    </div>
+</div>
+<!--  Add full CSS and Javascript before the close tag of the body if needed -->
+<!-- ========= JS Section ========= -->
+<script>
+    var isWLR = true;
+
+    window.customWidgetsFunctions = {};
+    window.customWidgetsStrings = {};
+    window.collections = {};
+    window.currentLanguage = "ENGLISH"
+    window.isSitePreview = false;
+</script>
+<script type="text/javascript">
+
+    var d_version = "production_5453";
+    var build = "2025-05-08T14_49_29";
+    window['v' + 'ersion'] = d_version;
+
+    function buildEditorParent() {
+        window.isMultiScreen = true;
+        window.editorParent = {};
+        window.previewParent = {};
+        window.assetsCacheQueryParam = "?version=2025-05-08T14_49_29";
+        try {
+            var _p = window.parent;
+            if (_p && _p.document && _p.$ && _p.$.dmfw) {
+                window.editorParent = _p;
+            } else if (_p.isSitePreview) {
+                window.previewParent = _p;
+            }
+        } catch (e) {
+
+        }
+    }
+
+    buildEditorParent();
+</script>
+
+<!-- Load jQuery -->
+<script type="text/javascript" id='d-js-jquery'
+        src="https://static.cdn-website.com/libs/jquery/jquery-3.7.0.min.js"></script>
+<!-- End Load jQuery -->
+<!-- Injecting site-wide before scripts -->
+<!-- End Injecting site-wide to the head -->
+
+
+<script>
+    var _jquery = window.$;
+
+    var jqueryAliases = ['$', 'jquery', 'jQuery'];
+
+    jqueryAliases.forEach((alias) => {
+        Object.defineProperty(window, alias, {
+            get() {
+                return _jquery;
+            },
+            set() {
+                console.warn("Trying to over-write the global jquery object!");
+            }
+        });
+    });
+    window.jQuery.migrateMute = true;
+</script>
+<script>
+    window.cookiesNotificationMarkupPreview = 'null';
+</script>
+
+<!-- HEAD RT JS Include -->
+<script id='d-js-params'>
+    window.INSITE = window.INSITE || {};
+    window.INSITE.device = "desktop";
+
+    window.rtCommonProps = {};
+    rtCommonProps["rt.ajax.ajaxScriptsFix"] =true;
+    rtCommonProps["rt.pushnotifs.sslframe.encoded"] = 'aHR0cHM6Ly97c3ViZG9tYWlufS5wdXNoLW5vdGlmcy5jb20=';
+    rtCommonProps["runtimecollector.url"] = 'https://rtc.multiscreensite.com';
+    rtCommonProps["performance.tabletPreview.removeScroll"] = 'false';
+    rtCommonProps["inlineEditGrid.snap"] =true;
+    rtCommonProps["popup.insite.cookie.ttl"] = '0.5';
+    rtCommonProps["rt.pushnotifs.force.button"] =true;
+    rtCommonProps["common.mapbox.token"] = 'pk.eyJ1IjoiZGFubnliMTIzIiwiYSI6ImNqMGljZ256dzAwMDAycXBkdWxwbDgzeXYifQ.Ck5P-0NKPVKAZ6SH98gxxw';
+    rtCommonProps["common.mapbox.js.override"] =false;
+    rtCommonProps["common.here.appId"] = 'iYvDjIQ2quyEu0rg0hLo';
+    rtCommonProps["common.here.appCode"] = '1hcIxLJcbybmtBYTD9Z1UA';
+    rtCommonProps["isCoverage.test"] =false;
+    rtCommonProps["ecommerce.ecwid.script"] = 'https://app.multiscreenstore.com/script.js';
+    rtCommonProps["feature.flag.mappy.kml"] =false;
+    rtCommonProps["common.resources.dist.cdn"] =true;
+    rtCommonProps["common.build.dist.folder"] = 'production/5453';
+    rtCommonProps["common.resources.cdn.host"] = 'https://static.cdn-website.com';
+    rtCommonProps["common.resources.folder"] = 'https://static.cdn-website.com/mnlt/production/5453';
+    rtCommonProps["feature.flag.runtime.backgroundSlider.preload.slowly"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.jitAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.sites.google.analytics.gtag"] =true;
+    rtCommonProps["feature.flag.runOnReadyNewTask"] =true;
+    rtCommonProps["isAutomation.test"] =false;
+
+    
+    rtCommonProps['common.mapsProvider'] = 'mapbox';
+    
+    rtCommonProps['common.mapsProvider.version'] = '0.52.0';
+    rtCommonProps['common.geocodeProvider'] = 'mapbox';
+    rtCommonProps['common.map.defaults.radiusSize'] = '1500';
+    rtCommonProps['common.map.defaults.radiusBg'] = 'rgba(255, 255, 255, 0.4)';
+    rtCommonProps['common.map.defaults.strokeColor'] = 'rgba(255, 255, 255, 1)';
+    rtCommonProps['common.map.defaults.strokeSize'] = '2';
+    rtCommonProps['server.for.resources'] = '';
+    rtCommonProps['feature.flag.lazy.widgets'] = true;
+    rtCommonProps['feature.flag.single.wow'] = false;
+    rtCommonProps['feature.flag.disallowPopupsInEditor'] = true;
+    rtCommonProps['feature.flag.mark.anchors'] = true;
+    rtCommonProps['captcha.public.key'] = '6LffcBsUAAAAAMU-MYacU-6QHY4iDtUEYv_Ppwlz';
+    rtCommonProps['captcha.invisible.public.key'] = '6LeiWB8UAAAAAHYnVJM7_-7ap6bXCUNGiv7bBPME';
+    rtCommonProps["images.sizes.small"] =160;
+    rtCommonProps["images.sizes.mobile"] =640;
+    rtCommonProps["images.sizes.tablet"] =1280;
+    rtCommonProps["images.sizes.desktop"] =1920;
+    rtCommonProps["modules.resources.cdn"] =true;
+    rtCommonProps["import.images.storage.imageCDN"] = 'https://lirp.cdn-website.com/';
+    rtCommonProps["feature.flag.runtime.inp.threshold"] =150;
+    rtCommonProps["feature.flag.performance.logs"] =true;
+    rtCommonProps["site.widget.form.captcha.type"] = 'g_recaptcha';
+    rtCommonProps["friendly.captcha.site.key"] = 'FCMGSQG9GVNMFS8K';
+    rtCommonProps["cookiebot.mapbox.consent.category"] = 'marketing';
+    // feature flags that's used out of runtime module (in  legacy files)
+    rtCommonProps["platform.monolith.personalization.dateTimeCondition.popupMsgAction.moveToclient.enabled"] =true;
+
+    window.rtFlags = {};
+    rtFlags["unsuspendEcwidStoreOnRuntime.enabled"] =true;
+    rtFlags["scripts.widgetCount.enabled"] =true;
+    rtFlags["ecom.ecwidNewUrlStructure.enabled"] = false;
+    rtFlags["ecom.ecwid.storefrontV3.enabled"] = false;
+    rtFlags["ecom.ecwid.old.store.fix.facebook.share"] = true;
+    rtFlags["feature.flag.photo.gallery.exact.size"] =true;
+    rtFlags["geocode.search.localize"] =false;
+    rtFlags["feature.flag.runtime.newAnimation.asyncInit.setTimeout.enabled"] =false;
+    rtFlags["twitter.heightLimit.enabled"] = true;
+    rtFlags["editor.classicHybrid.photogallery.fix"] =true;
+    rtFlags["runtime.lottieOverflow"] =false;
+    rtFlags["runtime.monitoring.sentry.ignoreErrors"] = "";
+    rtFlags["contact.form.browserValidation.enabled"] =true;
+    rtFlags["streamline.monolith.personalization.supportMultipleConditions.enabled"] =false;
+    rtFlags["runtime.cwv.report.cls.enabled"] =true;
+    rtFlags["editor.link.on.container"] =true;
+    rtFlags["flex.runtime.popup.with.show"] =true;
+    rtFlags["contact.form.useActiveForm"] =true;
+    rtFlags["runtime.ssr.productStore.internal.observer"] =true;
+    rtFlags["runtime.ssr.productCustomizations"] =true;
+    rtFlags["flex.megaMenu.a11y"] =false;
+</script>
+<script src="https://static.cdn-website.com/mnlt/production/5453/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js"  id="d-js-core"></script>
+<!-- End of HEAD RT JS Include -->
+<script src="https://static.cdn-website.com/mnlt/production/5453/_dm/s/rt/dist/scripts/d-js-jquery-migrate.min.js" ></script>
+<script>
+    
+    $(window).bind("orientationchange", function (e) {
+        $.layoutManager.initLayout();
+        
+    });
+    $(document).resize(function () {
+        
+    });
+</script>
+<script type="text/javascript" id="d_track_campaign">
+(function() {
+    if (!window.location.search) {
+        return;
+    }
+	const cleanParams = window.location.search.substring(1); // Strip ?
+	const queryParams = cleanParams.split('&');
+
+	const expires = 'expires=' + new Date().getTime() + 24 * 60 * 60 * 1000;
+	const domain = 'domain=' + window.location.hostname;
+	const path = "path=/";
+
+	queryParams.forEach((param) => {
+		const [key, value = ''] = param.split('=');
+		if (key.startsWith('utm_')) {
+			const cookieName = "_dm_rt_" + key.substring(4);
+			const cookie = cookieName + "=" + value;
+			const joined = [cookie, expires, domain, path].join(";");
+			document.cookie = joined;
+		}
+	});
+}());
+</script>
+<script type="text/javascript" >
+  var _dm_gaq = {};
+  var _gaq = _gaq || [];
+  var _dm_insite = [];
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-191127081-1"></script>
+<script type="text/javascript" id="d_track_ga">
+  _dm_gaq.siteAlias = '7768788d';
+  _dm_gaq.systemAggregatedGaqID = '';
+  _dm_gaq.externalGaqID = 'UA-191127081-1';
+  _dm_gaq.gaAggregatedEventAttributes = {
+	  'site_alias':  _dm_gaq.siteAlias,
+	  'product': 'DM_DIRECT',
+	  'plan': 'BUSINESS_PLUS_ECOMMERCE_X_LARGE',
+	  'dfooter': 'false',
+	  'sitetype': '1',
+	  'pwaEnabled': 'true'
+  }
+
+  _dm_gaq.pushEvent = function(trackingId, event, category, label, value, additionalParams = {}) {
+	  const eventProps = {
+		  send_to: trackingId,
+		  event_category: category,
+		  event_label: label,
+		  value,
+		  ...additionalParams,
+		  ...(trackingId === _dm_gaq.systemAggregatedGaqID
+				  ? _dm_gaq.gaAggregatedEventAttributes : {})
+	  };
+	  gtag('event', event, eventProps);
+  }
+
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+  function pushInsiteImpressions(id) {
+	  _dm_insite.forEach((rule) => {
+		  _dm_gaq.pushEvent(id, 'insite_impression', 'insite', rule.ruleType + '__' + rule.ruleId);
+	  });
+  }
+
+if(_dm_gaq.systemAggregatedGaqID){
+	// track aggregated account
+	gtag('config', '', {
+		'send_page_view': false,
+		'anonymize_ip': true,
+		'transport_type': 'beacon',
+		'custom_map': {'dimension1': 'site_alias', 'dimension2': 'product', 'dimension3': 'dFooter', 'dimension4': 'sitetype'}
+	});
+	gtag('set', 'developer_id.dMDU5Nj', true);
+
+	_dm_gaq.pushEvent('', 'page_view');
+	pushInsiteImpressions(_dm_gaq.systemAggregatedGaqID);
+}
+
+if(_dm_gaq.externalGaqID && _dm_gaq.externalGaqID!= '') {
+	gtag('config', 'UA-191127081-1', {
+		'send_page_view': false,
+		'anonymize_ip': true,
+		'transport_type': 'beacon',
+		'linker': {
+			'domains': ['salsmamaroneck.com']
+		}
+	});
+	_dm_gaq.pushEvent('UA-191127081-1', 'page_view');
+	pushInsiteImpressions(_dm_gaq.externalGaqID);
+}
+</script>
+<script type="text/javascript" id="d_track_sp">
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js","snowplow"));
+window.dmsnowplow  = window.snowplow;
+
+dmsnowplow('newTracker', 'cf', 'd32hwlnfiv2gyn.cloudfront.net', { // Initialise a tracker
+  appId: '7768788d'
+});
+
+// snowplow queries element styles so we wait until CSS calculations are done.
+requestAnimationFrame(() => {
+	dmsnowplow('trackPageView');
+	_dm_insite.forEach((rule) => {
+		// Specifically in popup only the client knows if it is shown or not so we don't always want to track its impression here
+		// the tracking is in popup.js
+		if (rule.actionName !== "popup") {
+			dmsnowplow('trackStructEvent', 'insite', 'impression', rule.ruleType, rule.ruleId);
+		}
+		window?.waitForDeferred?.('dmAjax', () => {
+			$.DM.events.trigger('event-ruleTriggered', {value: rule});
+		});
+	});
+});
+</script>
+   <div style="display:none;" id="P6iryBW0Wu"></div>
+
+<!-- photoswipe markup -->
+
+
+
+
+
+
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<div id="fb-root"
+        data-locale="en"></div>
+<!-- Alias: 7768788d -->
+<div class="dmPopupMask" id="dmPopupMask"></div>
+<div id="dmPopup" class="dmPopup">
+	<div class="dmPopupCloseWrapper"> <div class="dmPopupClose dm-common-icons-close oneIcon" onclick="dmHidePopup(event);"></div> </div>
+ 	<div class="dmPopupTitle"> <span></span> Share by:</div> 
+	<div class="data"></div>
+</div><script id="d_track_personalization">
+	window?.waitForDeferred?.('dmAjax', () => {
+		// Collects client data and updates cookies used by smart sites
+		window.expireDays = 365;
+		window.visitLength = 30 * 60000;
+		$.setCookie("dm_timezone_offset", (new Date()).getTimezoneOffset(), window.expireDays);
+			setSmartSiteCookiesInternal("dm_this_page_view","dm_last_page_view","dm_total_visits","dm_last_visit");
+	});
+</script>
+<script type="text/javascript">
+    
+    Parameters.NavigationAreaParams.LessButtonText = 'LESS';
+    Parameters.HomeLinkText = 'Home';
+    </script>
+<!--  End Script tags -->
+<!--  Begin Body End Markup -->
+ <script>
+ let nav = document.querySelectorAll('nav')
+
+if (nav) {
+  let navLinks = document.querySelectorAll('a')
+  let activeLink = document.querySelector('.dmNavItemSelected')
+  activeLink.scrollIntoView({ behavior: "smooth", inline: "center" })
+  
+  navLinks.forEach( function(link) {
+    link.addEventListener("click", (event) => {
+      navLinks.forEach( function(link) {
+        link.classList.remove('dmNavItemSelected')
+      })
+      link.classList.add('dmNavItemSelected')
+      link.scrollIntoView({ behavior: "smooth", inline: "center" })
+    })
+  })
+}
+ </script><!--  End Body End Markup -->
+<!--  Site Wide Html Markup -->
+<!--  Site Wide Html Markup -->
+</body>
+</html>
