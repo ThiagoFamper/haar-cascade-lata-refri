@@ -1,25 +1,23 @@
 # rodar no terminal dps de rodar o auto pipeline
-# opencv_createsamples -info positives_annotations.txt -num 30 -w 50 -h 50 -vec positives.vec
-# mkdir classifier opencv_traincascade -data classifier -vec positives.vec -bg negatives.txt -numPos 30 -numNeg 50 -numStages 20 -w 50 -h 50
+# opencv_createsamples -info positives.txt -num 100 -w 50 -h 50 -vec positives.vec
+# mkdir classifier
+# opencv_traincascade -data classifier -vec positives.vec -bg negatives.txt -numPos 100 -numNeg 100 -numStages 20 -w 50 -h 50
+
 
 import cv2
 import os
 
 
 def annotate_image(image_path):
-    """
-    Abre a imagem e permite selecionar a região (ROI) da lata.
-    Retorna a tupla (x, y, w, h) se a seleção for válida, senão None.
-    """
+
     img = cv2.imread(image_path)
     if img is None:
         print(f"Erro ao carregar a imagem: {image_path}")
         return None
 
-    # Exibe a imagem e permite a seleção da região
     clone = img.copy()
-    roi = cv2.selectROI("Selecione a área da lata e pressione ENTER ou SPACE", clone, showCrosshair=True)
-    cv2.destroyWindow("Selecione a área da lata e pressione ENTER ou SPACE")
+    roi = cv2.selectROI("Selecione a lata e pressione ENTER ou ESPACO", clone, showCrosshair=True)
+    cv2.destroyWindow("Selecione a lata e pressione ENTER ou ESPACO")
 
     x, y, w, h = roi
     if w == 0 or h == 0:
@@ -35,10 +33,6 @@ def annotate_image(image_path):
 
 
 def gerar_arquivo_positives(positives_dir, output_file):
-    """
-    Percorre as imagens em 'positives_dir', anota e gera um arquivo com o formato:
-    caminho/para/imagem.jpg 1 x y w h
-    """
     with open(output_file, "w") as f:
         for filename in os.listdir(positives_dir):
             if filename.lower().endswith((".jpg", ".jpeg", ".png")):
@@ -54,9 +48,6 @@ def gerar_arquivo_positives(positives_dir, output_file):
 
 
 def gerar_arquivo_negatives(negatives_dir, output_file):
-    """
-    Gera o arquivo negatives.txt com o caminho para cada imagem negativa.
-    """
     with open(output_file, "w") as f:
         for filename in os.listdir(negatives_dir):
             if filename.lower().endswith((".jpg", ".jpeg", ".png")):
@@ -69,5 +60,5 @@ if __name__ == "__main__":
     positives_dir = os.path.join("dataset", "positives")
     negatives_dir = os.path.join("dataset", "negatives")
 
-    gerar_arquivo_positives(positives_dir, "positives_annotations.txt")
+    gerar_arquivo_positives(positives_dir, "positives.txt")
     gerar_arquivo_negatives(negatives_dir, "negatives.txt")
