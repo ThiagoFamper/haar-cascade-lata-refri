@@ -6,7 +6,7 @@ def main():
         print("Erro ao carregar o cascade.xml. Verifique o caminho e o arquivo gerado.")
         return
 
-    image_path = 'teste.png'
+    image_path = 'teste2.jpg'
     frame = cv2.imread(image_path)
     if frame is None:
         print("Erro ao carregar a imagem. Verifique o caminho e o arquivo.")
