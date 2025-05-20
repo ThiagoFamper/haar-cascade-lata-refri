@@ -7,8 +7,8 @@ Treinar um classificador Haar Cascade personalizado para detectar uma Lata de Re
 Este projeto foi realizado em dupla para a disciplina de Visão Computacional.
 
 - Objeto detectado: Lata de Refrigerante
-- Total de imagens positivas: [número]
-- Total de imagens negativas: [número]
+- Total de imagens positivas: 100
+- Total de imagens negativas: 100
 
 ## Etapas Realizadas
 1. Coleta de imagens positivas e negativas
