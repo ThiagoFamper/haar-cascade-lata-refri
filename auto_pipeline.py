@@ -1,7 +1,6 @@
 # rodar no terminal dps de rodar o auto pipeline
-# opencv_createsamples -info positives.txt -num 100 -w 50 -h 50 -vec positives.vec
-# mkdir classifier
-# opencv_traincascade -data classifier -vec positives.vec -bg negatives.txt -numPos 100 -numNeg 100 -numStages 20 -w 50 -h 50
+# opencv_createsamples -info positives.txt -num 250 -w 50 -h 50 -vec positives.vec
+# opencv_traincascade -data classifier -vec positives.vec -bg negatives.txt -numPos 250 -numNeg 400 -numStages 20 -minHitRate 0.999 -maxFalseAlarmRate 0.5 -w 50 -h 50
 
 
 import cv2
@@ -9,27 +8,42 @@ import os
 
 
 def annotate_image(image_path):
-
     img = cv2.imread(image_path)
     if img is None:
         print(f"Erro ao carregar a imagem: {image_path}")
         return None
 
     clone = img.copy()
-    roi = cv2.selectROI("Selecione a lata e pressione ENTER ou ESPACO", clone, showCrosshair=True)
-    cv2.destroyWindow("Selecione a lata e pressione ENTER ou ESPACO")
+    rois = []  # Lista para armazenar múltiplos ROIs
 
-    x, y, w, h = roi
-    if w == 0 or h == 0:
-        print("ROI inválida. Selecione novamente.")
+    while True:
+        # Seleção do ROI
+        roi = cv2.selectROI("Selecione a lata e pressione ENTER ou ESC para finalizar", clone, showCrosshair=True)
+
+        if roi == (0, 0, 0, 0):  # Verifica se o ROI é inválido
+            break  # Se o ROI for inválido (0,0,0,0), finalize
+
+        # Se o ROI for válido, adiciona à lista
+        x, y, w, h = roi
+        if w == 0 or h == 0:
+            print("ROI inválido. Selecione novamente.")
+            continue
+
+        rois.append((x, y, w, h))  # Adiciona o ROI na lista
+
+        # Desenhando o ROI na imagem original para visualização
+        cv2.rectangle(clone, (x, y), (x + w, y + h), (0, 255, 0), 2)  # Desenha o retângulo
+
+        # Mostra a imagem com os ROIs selecionados
+        cv2.imshow("Selecione a lata e pressione ENTER ou ESC para finalizar", clone)
+
+    cv2.destroyWindow("Selecione a lata e pressione ENTER ou ESC para finalizar")
+
+    if not rois:
+        print("Nenhum ROI selecionado.")
         return None
 
-    height, width = img.shape[:2]
-    if x < 0 or y < 0 or (x + w) > width or (y + h) > height:
-        print(f"ROI fora dos limites da imagem {image_path}. Dimensões da imagem: {width}x{height}")
-        return None
-
-    return (x, y, w, h)
+    return rois
 
 
 def gerar_arquivo_positives(positives_dir, output_file):
@@ -38,10 +52,11 @@ def gerar_arquivo_positives(positives_dir, output_file):
             if filename.lower().endswith((".jpg", ".jpeg", ".png")):
                 image_path = os.path.join(positives_dir, filename)
                 print(f"Anotando: {image_path}")
-                roi = annotate_image(image_path)
-                if roi:
-                    x, y, w, h = roi
-                    f.write(f"{image_path} 1 {x} {y} {w} {h}\n")
+                rois = annotate_image(image_path)
+                if rois:
+                    for roi in rois:
+                        x, y, w, h = roi
+                        f.write(f"{image_path} 1 {x} {y} {w} {h}\n")
                 else:
                     print(f"Anotação inválida para: {image_path}")
     print(f"Lista de anotações salva em: {output_file}")
