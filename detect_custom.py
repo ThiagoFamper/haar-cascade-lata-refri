@@ -14,7 +14,7 @@ def main():
 
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
-    objects = cascade.detectMultiScale(gray, scaleFactor=1.1, minNeighbors=15, minSize=(50, 50))
+    objects = cascade.detectMultiScale(gray, scaleFactor=1.01, minNeighbors=50, minSize=(50, 50))
     print(f"Número de detecções: {len(objects)}")
 
     for (x, y, w, h) in objects:
