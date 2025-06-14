@@ -6,22 +6,32 @@ def main():
         print("Erro ao carregar o cascade.xml. Verifique o caminho e o arquivo gerado.")
         return
 
-    image_path = 'teste2.jpg'
-    frame = cv2.imread(image_path)
-    if frame is None:
-        print("Erro ao carregar a imagem. Verifique o caminho e o arquivo.")
+    cap = cv2.VideoCapture(0)
+    if not cap.isOpened():
+        print("Erro ao acessar a webcam.")
         return
 
-    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+    print("Pressione 'q' para sair.")
+    while True:
+        ret, frame = cap.read()
+        if not ret:
+            print("Erro ao capturar frame da webcam.")
+            break
 
-    objects = cascade.detectMultiScale(gray, scaleFactor=1.01, minNeighbors=50, minSize=(50, 50))
-    print(f"Número de detecções: {len(objects)}")
+        gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
-    for (x, y, w, h) in objects:
-        cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
+        objects = cascade.detectMultiScale(gray, scaleFactor=1.1, minNeighbors=5, minSize=(50, 50))
+        print(f"Número de detecções: {len(objects)}")
 
-    cv2.imshow('Detector de Lata', frame)
-    cv2.waitKey(0)
+        for (x, y, w, h) in objects:
+            cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
+
+        cv2.imshow('Detector de Lata (Webcam)', frame)
+
+        if cv2.waitKey(1) & 0xFF == ord('q'):
+            break
+
+    cap.release()
     cv2.destroyAllWindows()
 
 if __name__ == "__main__":
